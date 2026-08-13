@@ -1,0 +1,1638 @@
+{
+  "items": [
+    {
+      "description": "网络相关的库和工具",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Netty",
+              "description": "Netty是一个高性能、异步事件驱动的NIO框架，它提供了对TCP、UDP和文件传输的支持",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T15:35:44Z",
+                "owner": "netty",
+                "repo": "netty",
+                "stars": 35033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mina",
+              "description": "Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-06-28T03:35:05Z",
+                "owner": "apache",
+                "repo": "mina",
+                "stars": 925
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libuv",
+              "description": "libuv 是 Node 的新跨平台抽象层,用于抽象 Windows 的 IOCP 及 Unix 的 libev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-08-06T07:39:55Z",
+                "owner": "libuv",
+                "repo": "libuv",
+                "stars": 27095
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KCP",
+              "description": "快速可靠的 ARQ 协议，比 TCP 浪费带宽换低延迟",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-06-23T06:21:10Z",
+                "owner": "skywind3000",
+                "repo": "kcp",
+                "stars": 16864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "muduo",
+              "description": "陈硕出品的基于 Reactor 模式的现代 C++ 网络库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2025-12-23T17:18:04Z",
+                "owner": "chenshuo",
+                "repo": "muduo",
+                "stars": 16225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asio",
+              "description": "跨平台 C++ 网络与底层 I/O 库，Boost.Asio 的独立版本",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-07-18T23:47:27Z",
+                "owner": "chriskohlhoff",
+                "repo": "asio",
+                "stars": 6161
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "evpp",
+              "description": "360 出品的现代 C++ 高性能网络库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2024-04-10T11:09:16Z",
+                "owner": "Qihoo360",
+                "repo": "evpp",
+                "stars": 3774
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "enet",
+              "description": "面向游戏的可靠 UDP 网络库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2026-06-23T19:17:35Z",
+                "owner": "lsalzman",
+                "repo": "enet",
+                "stars": 3251
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gnet",
+              "description": "高性能、轻量级、非阻塞的事件驱动 Go 网络框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-09T13:43:46Z",
+                "owner": "panjf2000",
+                "repo": "gnet",
+                "stars": 11228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "netpoll",
+              "description": "字节跳动开源的高性能 Go 网络库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-06T08:54:34Z",
+                "owner": "cloudwego",
+                "repo": "netpoll",
+                "stars": 4599
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Erlang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ranch",
+              "description": "cowboy 项目下的Tcp网络库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2026-07-28T08:16:21Z",
+                "owner": "ninenines",
+                "repo": "ranch",
+                "stars": 1242
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C#",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DotNetty",
+              "description": "netty 的C#版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-01-12T23:42:59Z",
+                "owner": "Azure",
+                "repo": "DotNetty",
+                "stars": 4250
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Rust",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tokio",
+              "description": "Rust 异步运行时与网络库事实标准",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-11T07:51:50Z",
+                "owner": "tokio-rs",
+                "repo": "tokio",
+                "stars": 32935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mio",
+              "description": "Rust 底层非阻塞 IO 库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Rust",
+                "last_commit": "2026-08-08T15:09:05Z",
+                "owner": "tokio-rs",
+                "repo": "mio",
+                "stars": 7079
+              }
+            }
+          ]
+        }
+      ],
+      "title": "网络"
+    },
+    {
+      "description": "协议",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "protobuf",
+          "description": "大家都知道的protobuf",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T21:48:43Z",
+            "owner": "protocolbuffers",
+            "repo": "protobuf",
+            "stars": 71727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatBuffers",
+          "description": "Google出品，专门为游戏开发或其他性能敏感的应用程序需求而创建",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:49:45Z",
+            "owner": "google",
+            "repo": "flatbuffers",
+            "stars": 26330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cap'n Proto",
+          "description": "极致性能的序列化协议，零拷贝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:15:45Z",
+            "owner": "capnproto",
+            "repo": "capnproto",
+            "stars": 13159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thrift",
+          "description": "Apache 跨语言 RPC 与序列化框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T20:26:54Z",
+            "owner": "apache",
+            "repo": "thrift",
+            "stars": 10951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SBE",
+          "description": "面向超低延迟场景的二进制编码",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-27T18:17:32Z",
+            "owner": "aeron-io",
+            "repo": "simple-binary-encoding",
+            "stars": 3486
+          }
+        }
+      ],
+      "title": "协议"
+    },
+    {
+      "description": "持久化框架",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "druid",
+              "description": "阿里巴巴出品 数据库连接池",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-01T11:32:54Z",
+                "owner": "alibaba",
+                "repo": "druid",
+                "stars": 28183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HikariCP",
+              "description": "高性能 JDBC 连接池",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-06-14T21:05:22Z",
+                "owner": "brettwooldridge",
+                "repo": "HikariCP",
+                "stars": 21183
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MyBatis",
+              "description": "一个支持普通SQL查询,存储过程和高级映射的优秀持久层框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T15:52:53Z",
+                "owner": "mybatis",
+                "repo": "mybatis-3",
+                "stars": 20432
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hibernate",
+              "description": "老牌 Java ORM 框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T16:11:41Z",
+                "owner": "hibernate",
+                "repo": "hibernate-orm",
+                "stars": 6472
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C#",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dapper",
+              "description": "是一款轻量级ORM框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-05-16T20:40:17Z",
+                "owner": "DapperLib",
+                "repo": "Dapper",
+                "stars": 18366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Entity Framework Core",
+              "description": "微软官方 .NET ORM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-13T21:19:35Z",
+                "owner": "dotnet",
+                "repo": "efcore",
+                "stars": 14772
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Erlang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mysql-otp",
+              "description": "MySQL driver for Erlang/OTP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2025-06-10T10:02:30Z",
+                "owner": "mysql-otp",
+                "repo": "mysql-otp",
+                "stars": 375
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Golang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gorm",
+              "description": "Go 最流行的 ORM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-06-25T07:21:11Z",
+                "owner": "go-gorm",
+                "repo": "gorm",
+                "stars": 39912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sqlx",
+              "description": "database/sql 的扩展",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2024-08-15T16:19:19Z",
+                "owner": "jmoiron",
+                "repo": "sqlx",
+                "stars": 17725
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-sql-driver",
+              "description": "MySQL driver for Golang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T14:28:05Z",
+                "owner": "go-sql-driver",
+                "repo": "mysql",
+                "stars": 15276
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SQLAlchemy",
+              "description": "Python SQL 工具包与 ORM",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-13T21:03:13Z",
+                "owner": "sqlalchemy",
+                "repo": "sqlalchemy",
+                "stars": 12080
+              }
+            }
+          ]
+        }
+      ],
+      "title": "持久化"
+    },
+    {
+      "description": "游戏服常用的缓存与消息中间件",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Redis",
+          "description": "高性能内存数据库，游戏服务器最常用的缓存",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T10:52:17Z",
+            "owner": "redis",
+            "repo": "redis",
+            "stars": 76007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSQ",
+          "description": "实时分布式消息平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T18:19:49Z",
+            "owner": "nsqio",
+            "repo": "nsq",
+            "stars": 25773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redisson",
+          "description": "Redis 的 Java 客户端，提供分布式对象与服务",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T07:54:46Z",
+            "owner": "redisson",
+            "repo": "redisson",
+            "stars": 24373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-redis",
+          "description": "Redis 的 Go 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T21:40:26Z",
+            "owner": "redis",
+            "repo": "go-redis",
+            "stars": 22217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NATS",
+          "description": "高性能云原生消息系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T19:51:19Z",
+            "owner": "nats-io",
+            "repo": "nats-server",
+            "stars": 20492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitMQ",
+          "description": "通用消息中间件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:15:40Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-server",
+            "stars": 13780
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KeyDB",
+          "description": "Redis 的多线程分支",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-05-29T08:55:22Z",
+            "owner": "Snapchat",
+            "repo": "KeyDB",
+            "stars": 12509
+          }
+        }
+      ],
+      "title": "缓存与消息队列"
+    },
+    {
+      "description": "Log",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Logback",
+              "description": "log4j 作者写的下一代日志框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T20:41:05Z",
+                "owner": "qos-ch",
+                "repo": "logback",
+                "stars": 3233
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Log4j",
+              "description": "Apache log4j",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2023-01-03T18:51:42Z",
+                "owner": "apache",
+                "repo": "logging-log4j1",
+                "stars": 868
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C#",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Serilog",
+              "description": "结构化日志的 .NET 库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-07-31T10:58:30Z",
+                "owner": "serilog",
+                "repo": "serilog",
+                "stars": 8033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NLog",
+              "description": "支持多平台的C# log库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-12T20:47:55Z",
+                "owner": "NLog",
+                "repo": "NLog",
+                "stars": 6544
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "spdlog",
+              "description": "极快的 C++ 日志库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-08T10:51:08Z",
+                "owner": "gabime",
+                "repo": "spdlog",
+                "stars": 29481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glog",
+              "description": "Google C++ 日志库",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "C++",
+                "last_commit": "2025-05-17T11:51:44Z",
+                "owner": "google",
+                "repo": "glog",
+                "stars": 7393
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Erlang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lager",
+              "description": "A logging framework for Erlang/OTP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Erlang",
+                "last_commit": "2025-08-26T16:09:45Z",
+                "owner": "erlang-lager",
+                "repo": "lager",
+                "stars": 1130
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Golang",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "logrus",
+              "description": "Structured, pluggable logging for Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-13T15:34:08Z",
+                "owner": "sirupsen",
+                "repo": "logrus",
+                "stars": 25750
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zap",
+              "description": "Blazing fast, structured, leveled logging in Go",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-05T23:33:47Z",
+                "owner": "uber-go",
+                "repo": "zap",
+                "stars": 24654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "zerolog",
+              "description": "零分配 JSON logger",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-10T11:50:07Z",
+                "owner": "rs",
+                "repo": "zerolog",
+                "stars": 12490
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "loguru",
+              "description": "简单易用的 Python 日志库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-01T14:11:29Z",
+                "owner": "Delgan",
+                "repo": "loguru",
+                "stars": 24071
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Log"
+    },
+    {
+      "description": "游戏AI",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "recastnavigation",
+          "description": "非常高效的寻路系统，和Unity的寻路算法几乎一样",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-27T07:17:13Z",
+            "owner": "recastnavigation",
+            "repo": "recastnavigation",
+            "stars": 7858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serpent.AI",
+          "description": "游戏代理框架，适合写外挂",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-07T01:59:31Z",
+            "owner": "SerpentAI",
+            "repo": "SerpentAI",
+            "stars": 6993
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BehaviorTree.CPP",
+          "description": "现代 C++ 行为树库，机器人/游戏均可用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-05T14:17:37Z",
+            "owner": "BehaviorTree",
+            "repo": "BehaviorTree.CPP",
+            "stars": 4158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "behaviac",
+          "description": "腾讯开源的行为树框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-07T07:25:48Z",
+            "owner": "Tencent",
+            "repo": "behaviac",
+            "stars": 3045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gdx-ai",
+          "description": "libgdx下的一个ai系统（非常适合参考学习）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-10-01T16:56:55Z",
+            "owner": "libgdx",
+            "repo": "gdx-ai",
+            "stars": 1300
+          }
+        }
+      ],
+      "title": "游戏AI"
+    },
+    {
+      "description": "工具库",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "guava",
+              "description": "Google出品的Java工具库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-12T03:40:49Z",
+                "owner": "google",
+                "repo": "guava",
+                "stars": 51915
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hutool",
+              "description": "国产小而全的 Java 工具类库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T02:49:12Z",
+                "owner": "chinabugotech",
+                "repo": "hutool",
+                "stars": 30279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "disruptor",
+              "description": "性能高效的线程间通讯库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2025-04-02T13:03:33Z",
+                "owner": "LMAX-Exchange",
+                "repo": "disruptor",
+                "stars": 18434
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C++",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "folly",
+              "description": "Facebook 开源的 C++ 基础库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T21:12:13Z",
+                "owner": "facebook",
+                "repo": "folly",
+                "stars": 30492
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "abseil-cpp",
+              "description": "Google 通用 C++ 基础库",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-13T20:31:16Z",
+                "owner": "abseil",
+                "repo": "abseil-cpp",
+                "stars": 18078
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cobra",
+              "description": "Go 命令行框架",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-11T00:43:07Z",
+                "owner": "spf13",
+                "repo": "cobra",
+                "stars": 44459
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "viper",
+              "description": "Go 配置解决方案",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-01-12T21:42:47Z",
+                "owner": "spf13",
+                "repo": "viper",
+                "stars": 30427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ants",
+              "description": "高性能 goroutine 池",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-07-04T08:40:49Z",
+                "owner": "panjf2000",
+                "repo": "ants",
+                "stars": 14485
+              }
+            }
+          ]
+        }
+      ],
+      "title": "工具库"
+    },
+    {
+      "description": "各种开源游戏服务器",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "skynet",
+          "description": "云风大神出品Lua游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-05T01:25:53Z",
+            "owner": "cloudwu",
+            "repo": "skynet",
+            "stars": 14117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nakama",
+          "description": "Heroic Labs 出品的开源分布式游戏服务器，Go 编写",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T15:23:47Z",
+            "owner": "heroiclabs",
+            "repo": "nakama",
+            "stars": 13151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pomelo",
+          "description": "网易出品的Node.js游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-08-10T09:22:21Z",
+            "owner": "NetEase",
+            "repo": "pomelo",
+            "stars": 11873
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TrinityCore",
+          "description": "MMO游戏服务器框架,开源的魔兽服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T18:36:33Z",
+            "owner": "TrinityCore",
+            "repo": "TrinityCore",
+            "stars": 10718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colyseus",
+          "description": "Node.js / TypeScript 多人游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T19:07:37Z",
+            "owner": "colyseus",
+            "repo": "colyseus",
+            "stars": 7192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kbengine",
+          "description": "一款开源的MMOG游戏服务端引擎， 仅Python脚本即可简单高效的完成任何游戏逻辑(支持热更新)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-12-13T18:37:12Z",
+            "owner": "kbengine",
+            "repo": "kbengine",
+            "stars": 5696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leaf",
+          "description": "用Golang写的gameserver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-23T07:55:15Z",
+            "owner": "name5566",
+            "repo": "leaf",
+            "stars": 5518
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuberite",
+          "description": "我的世界 的开源服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-25T22:04:14Z",
+            "owner": "cuberite",
+            "repo": "cuberite",
+            "stars": 5431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoahGameFrame",
+          "description": "一个支持分布式的C++游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-02-25T06:55:21Z",
+            "owner": "ketoo",
+            "repo": "NoahGameFrame",
+            "stars": 4144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cellnet",
+          "description": "Go 高性能事件驱动游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-03-14T09:01:56Z",
+            "owner": "davyxu",
+            "repo": "cellnet",
+            "stars": 4059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nano",
+          "description": "轻量级、易用、高性能的 Go 游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-26T09:03:31Z",
+            "owner": "lonng",
+            "repo": "nano",
+            "stars": 3219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaNGOS",
+          "description": "开源的魔兽服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-06T06:02:51Z",
+            "owner": "mangos",
+            "repo": "MaNGOS",
+            "stars": 3105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pitaya",
+          "description": "Go 编写的可扩展游戏服务器框架，pomelo 思路延续",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-22T20:40:01Z",
+            "owner": "topfreegames",
+            "repo": "pitaya",
+            "stars": 2821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mqant",
+          "description": "mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-09T07:54:03Z",
+            "owner": "liangdas",
+            "repo": "mqant",
+            "stars": 2519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NettyGameServer",
+          "description": "使用netty4.X实现的手机游戏分布式服务器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-14T09:09:15Z",
+            "owner": "jwpttcg66",
+            "repo": "NettyGameServer",
+            "stars": 1670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scut",
+          "description": "support C#/Python/Lua 可惜两年没有更新了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2016-07-02T11:23:41Z",
+            "owner": "ScutGame",
+            "repo": "Scut",
+            "stars": 1338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gonet",
+          "description": "Go 编写的简洁游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-07-25T03:40:39Z",
+            "owner": "xtaci",
+            "repo": "gonet",
+            "stars": 1286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moon",
+          "description": "基于Actor模型的轻量级游戏服务器框架(Modern C++, Lua)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-05T15:08:08Z",
+            "owner": "sniper00",
+            "repo": "moon",
+            "stars": 971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "due",
+          "description": "一款基于Go语言开发的轻量级分布式游戏服务器框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T02:25:01Z",
+            "owner": "dobyte",
+            "repo": "due",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xingo",
+          "description": "高性能golang网络库，游戏开发脚手架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-15T02:05:41Z",
+            "owner": "viphxin",
+            "repo": "xingo",
+            "stars": 861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RockGO",
+          "description": "基于ECS，用Golang写的gameserver",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-09-07T14:34:34Z",
+            "owner": "zllangct",
+            "repo": "rockgo",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryzomcore",
+          "description": "分布式的游戏服务器，ryzom 的官方开源",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:31:59Z",
+            "owner": "ryzom",
+            "repo": "ryzomcore",
+            "stars": 450
+          }
+        }
+      ],
+      "title": "开源服务器"
+    },
+    {
+      "description": "游戏服上云常用的容器与调度",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Kubernetes",
+          "description": "容器编排事实标准",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T20:01:37Z",
+            "owner": "kubernetes",
+            "repo": "kubernetes",
+            "stars": 124490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agones",
+          "description": "基于 Kubernetes 的专用游戏服编排平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:55:13Z",
+            "owner": "agones-dev",
+            "repo": "agones",
+            "stars": 6972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "容器化运行时",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-11-06T11:06:59Z",
+            "owner": "docker-archive",
+            "repo": "docker-ce",
+            "stars": 5745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Match",
+          "description": "Google 与 Unity 联合开源的可扩展匹配框架",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-12T18:15:57Z",
+            "owner": "googleforgames",
+            "repo": "open-match",
+            "stars": 3421
+          }
+        }
+      ],
+      "title": "容器与编排"
+    },
+    {
+      "description": "运维工具",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elasticsearch",
+          "description": "日志检索与分析",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T21:27:02Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77851
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grafana",
+          "description": "通用可视化与监控仪表盘",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T21:38:03Z",
+            "owner": "grafana",
+            "repo": "grafana",
+            "stars": 76294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "无代理的自动化运维工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus",
+          "description": "云原生监控与告警系统",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:13:55Z",
+            "owner": "prometheus",
+            "repo": "prometheus",
+            "stars": 65729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fabric",
+          "description": "远程执行命令",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-10T13:53:02Z",
+            "owner": "fabric",
+            "repo": "fabric",
+            "stars": 15487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "supervisor",
+          "description": "进程守护管理工具",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-21T21:03:13Z",
+            "owner": "Supervisor",
+            "repo": "supervisor",
+            "stars": 9104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinuxGSM",
+          "description": "Linux Game Server Managers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-07T19:24:41Z",
+            "owner": "GameServerManagers",
+            "repo": "LinuxGSM",
+            "stars": 4886
+          }
+        }
+      ],
+      "title": "运维"
+    },
+    {
+      "description": "学习资源",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-cpp",
+          "description": "C++ 资源合集，含游戏方向",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-04T08:08:58Z",
+            "owner": "fffaraz",
+            "repo": "awesome-cpp",
+            "stars": 72760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "architect-awesome",
+          "description": "后端架构师技术图谱",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-11T11:32:12Z",
+            "owner": "xingshaocheng",
+            "repo": "architect-awesome",
+            "stars": 60845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "game-programmer",
+          "description": "A Study Path for Game Programmer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-28T01:05:23Z",
+            "owner": "miloyip",
+            "repo": "game-programmer",
+            "stars": 18691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome GameDev",
+          "description": "综合 gamedev 资源合集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T19:10:59Z",
+            "owner": "Calinou",
+            "repo": "awesome-gamedev",
+            "stars": 3097
+          }
+        }
+      ],
+      "title": "学习资源"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-go",
+          "description": "Go 资源合集，找网络/服务器组件常用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:50:42Z",
+            "owner": "avelino",
+            "repo": "awesome-go",
+            "stars": 180980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "games",
+          "description": "github上的一个游戏列表",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2025-09-13T20:06:46Z",
+            "owner": "leereilly",
+            "repo": "games",
+            "stars": 24931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-erlang",
+          "description": "Erlang 资源合集",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-17T23:40:26Z",
+            "owner": "drobakowski",
+            "repo": "awesome-erlang",
+            "stars": 1707
+          }
+        }
+      ],
+      "title": "其他"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:53:07.971Z",
+    "original_repository": "hstcscolor/awesome-gameserver-cn",
+    "original_repository_sha": "d282a3184bff8e9cdbcb30aabc780f303b5266a0",
+    "enhanced_repository": "enhansome/enhansome-gameserver-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome 游戏服务器资源大全 with stars"
+  }
+}
