@@ -15,11 +15,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1064563,
                 "language": "Java",
-                "last_commit": "2026-08-18T12:31:34Z",
+                "last_commit": "2026-08-19T08:58:09Z",
                 "owner": "netty",
                 "repo": "netty",
-                "stars": 35037
+                "stars": 35039
               }
             },
             {
@@ -29,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 206366,
                 "language": "Java",
                 "last_commit": "2026-08-17T14:18:05Z",
                 "owner": "apache",
@@ -50,11 +52,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 14812739,
                 "language": "C",
                 "last_commit": "2026-08-17T18:53:01Z",
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27116
+                "stars": 27120
               }
             },
             {
@@ -64,6 +67,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 28515839,
                 "language": "C",
                 "last_commit": "2026-06-23T06:21:10Z",
                 "owner": "skywind3000",
@@ -78,6 +82,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 648343,
                 "language": "C++",
                 "last_commit": "2025-12-23T17:18:04Z",
                 "owner": "chenshuo",
@@ -92,6 +97,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1368195,
                 "language": "C++",
                 "last_commit": "2026-07-18T23:47:27Z",
                 "owner": "chriskohlhoff",
@@ -106,6 +112,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 83792790,
                 "language": "C++",
                 "last_commit": "2024-04-10T11:09:16Z",
                 "owner": "Qihoo360",
@@ -120,11 +127,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4233299,
                 "language": "C",
                 "last_commit": "2026-06-23T19:17:35Z",
                 "owner": "lsalzman",
                 "repo": "enet",
-                "stars": 3252
+                "stars": 3254
               }
             }
           ]
@@ -141,11 +149,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 172292744,
                 "language": "Go",
                 "last_commit": "2026-07-09T13:43:46Z",
                 "owner": "panjf2000",
                 "repo": "gnet",
-                "stars": 11232
+                "stars": 11233
               }
             },
             {
@@ -155,6 +164,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 342158146,
                 "language": "Go",
                 "last_commit": "2026-08-06T08:54:34Z",
                 "owner": "cloudwego",
@@ -176,6 +186,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3944995,
                 "language": "Erlang",
                 "last_commit": "2026-07-28T08:16:21Z",
                 "owner": "ninenines",
@@ -197,11 +208,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 35290377,
                 "language": "C#",
                 "last_commit": "2026-01-12T23:42:59Z",
                 "owner": "Azure",
                 "repo": "DotNetty",
-                "stars": 4250
+                "stars": 4252
               }
             }
           ]
@@ -218,11 +230,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 67836789,
                 "language": "Rust",
                 "last_commit": "2026-08-17T19:51:44Z",
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 32947
+                "stars": 32953
               }
             },
             {
@@ -232,11 +245,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 23138984,
                 "language": "Rust",
                 "last_commit": "2026-08-17T16:59:26Z",
                 "owner": "tokio-rs",
                 "repo": "mio",
-                "stars": 7080
+                "stars": 7081
               }
             }
           ]
@@ -254,11 +268,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-18T21:28:01Z",
+            "last_commit": "2026-08-19T10:11:04Z",
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71735
+            "stars": 71737
           }
         },
         {
@@ -268,11 +283,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19953044,
             "language": "C++",
             "last_commit": "2026-08-11T19:49:45Z",
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26333
+            "stars": 26338
           }
         },
         {
@@ -282,11 +298,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9090933,
             "language": "C++",
-            "last_commit": "2026-08-18T20:14:19Z",
+            "last_commit": "2026-08-18T22:28:25Z",
             "owner": "capnproto",
             "repo": "capnproto",
-            "stars": 13161
+            "stars": 13162
           }
         },
         {
@@ -296,11 +313,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 310611,
             "language": "C++",
             "last_commit": "2026-08-17T04:43:25Z",
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10953
+            "stars": 10954
           }
         },
         {
@@ -310,11 +328,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12559641,
             "language": "Java",
             "last_commit": "2026-08-17T15:29:47Z",
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3487
+            "stars": 3490
           }
         }
       ],
@@ -335,11 +354,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2700159,
                 "language": "Java",
                 "last_commit": "2026-08-01T11:32:54Z",
                 "owner": "alibaba",
                 "repo": "druid",
-                "stars": 28176
+                "stars": 28179
               }
             },
             {
@@ -349,11 +369,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13404515,
                 "language": "Java",
                 "last_commit": "2026-06-14T21:05:22Z",
                 "owner": "brettwooldridge",
                 "repo": "HikariCP",
-                "stars": 21185
+                "stars": 21186
               }
             },
             {
@@ -363,11 +384,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8205602,
                 "language": "Java",
                 "last_commit": "2026-08-17T01:04:14Z",
                 "owner": "mybatis",
                 "repo": "mybatis-3",
-                "stars": 20437
+                "stars": 20438
               }
             },
             {
@@ -377,11 +399,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 961036,
                 "language": "Java",
-                "last_commit": "2026-08-18T15:41:48Z",
+                "last_commit": "2026-08-19T11:44:38Z",
                 "owner": "hibernate",
                 "repo": "hibernate-orm",
-                "stars": 6458
+                "stars": 6459
               }
             }
           ]
@@ -398,11 +421,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1613345,
                 "language": "C#",
                 "last_commit": "2026-08-18T18:54:33Z",
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18365
+                "stars": 18367
               }
             },
             {
@@ -412,11 +436,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 16157746,
                 "language": "C#",
-                "last_commit": "2026-08-18T17:33:06Z",
+                "last_commit": "2026-08-18T23:50:27Z",
                 "owner": "dotnet",
                 "repo": "efcore",
-                "stars": 14769
+                "stars": 14770
               }
             }
           ]
@@ -433,6 +458,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 25876565,
                 "language": "Erlang",
                 "last_commit": "2025-06-10T10:02:30Z",
                 "owner": "mysql-otp",
@@ -454,6 +480,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13855476,
                 "language": "Go",
                 "last_commit": "2026-06-25T07:21:11Z",
                 "owner": "go-gorm",
@@ -468,6 +495,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7877397,
                 "language": "Go",
                 "last_commit": "2024-08-15T16:19:19Z",
                 "owner": "jmoiron",
@@ -482,11 +510,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7083242,
                 "language": "Go",
                 "last_commit": "2026-08-14T07:42:05Z",
                 "owner": "go-sql-driver",
                 "repo": "mysql",
-                "stars": 15269
+                "stars": 15268
               }
             }
           ]
@@ -503,11 +532,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 159271175,
                 "language": "Python",
-                "last_commit": "2026-08-18T19:53:48Z",
+                "last_commit": "2026-08-18T22:24:47Z",
                 "owner": "sqlalchemy",
                 "repo": "sqlalchemy",
-                "stars": 12092
+                "stars": 12093
               }
             }
           ]
@@ -525,11 +555,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156018,
             "language": "C",
-            "last_commit": "2026-08-18T15:42:48Z",
+            "last_commit": "2026-08-19T05:24:19Z",
             "owner": "redis",
             "repo": "redis",
-            "stars": 76031
+            "stars": 76039
           }
         },
         {
@@ -539,11 +570,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4307108,
             "language": "Go",
             "last_commit": "2026-08-11T18:19:49Z",
             "owner": "nsqio",
             "repo": "nsq",
-            "stars": 25770
+            "stars": 25771
           }
         },
         {
@@ -553,6 +585,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15823460,
             "language": "Java",
             "last_commit": "2026-08-18T11:13:14Z",
             "owner": "redisson",
@@ -567,11 +600,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5179099,
             "language": "Go",
-            "last_commit": "2026-08-18T21:24:24Z",
+            "last_commit": "2026-08-19T12:22:21Z",
             "owner": "redis",
             "repo": "go-redis",
-            "stars": 22215
+            "stars": 22213
           }
         },
         {
@@ -581,11 +615,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6443435,
             "language": "Go",
-            "last_commit": "2026-08-18T16:30:49Z",
+            "last_commit": "2026-08-19T12:31:38Z",
             "owner": "nats-io",
             "repo": "nats-server",
-            "stars": 20539
+            "stars": 20546
           }
         },
         {
@@ -595,11 +630,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 924551,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T20:34:41Z",
+            "last_commit": "2026-08-19T11:03:00Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13786
+            "stars": 13790
           }
         },
         {
@@ -609,6 +645,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168712350,
             "language": "C++",
             "last_commit": "2024-05-29T08:55:22Z",
             "owner": "Snapchat",
@@ -634,6 +671,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 283325,
                 "language": "Java",
                 "last_commit": "2026-08-14T09:28:13Z",
                 "owner": "qos-ch",
@@ -648,6 +686,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 206384,
                 "language": "Java",
                 "last_commit": "2023-01-03T18:51:42Z",
                 "owner": "apache",
@@ -669,11 +708,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 8198511,
                 "language": "C#",
                 "last_commit": "2026-07-31T10:58:30Z",
                 "owner": "serilog",
                 "repo": "serilog",
-                "stars": 8030
+                "stars": 8032
               }
             },
             {
@@ -683,11 +723,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5780416,
                 "language": "C#",
                 "last_commit": "2026-08-16T22:46:07Z",
                 "owner": "NLog",
                 "repo": "NLog",
-                "stars": 6546
+                "stars": 6547
               }
             }
           ]
@@ -704,11 +745,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 26038648,
                 "language": "C++",
                 "last_commit": "2026-08-08T10:51:08Z",
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29492
+                "stars": 29496
               }
             },
             {
@@ -718,6 +760,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 31197250,
                 "language": "C++",
                 "last_commit": "2025-05-17T11:51:44Z",
                 "owner": "google",
@@ -739,6 +782,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1948141,
                 "language": "Erlang",
                 "last_commit": "2025-08-26T16:09:45Z",
                 "owner": "erlang-lager",
@@ -760,8 +804,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13628513,
                 "language": "Go",
-                "last_commit": "2026-08-18T10:35:24Z",
+                "last_commit": "2026-08-19T09:06:37Z",
                 "owner": "sirupsen",
                 "repo": "logrus",
                 "stars": 25751
@@ -774,6 +819,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 52034309,
                 "language": "Go",
                 "last_commit": "2026-08-05T23:33:47Z",
                 "owner": "uber-go",
@@ -788,11 +834,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 91054480,
                 "language": "Go",
                 "last_commit": "2026-08-10T11:50:07Z",
                 "owner": "rs",
                 "repo": "zerolog",
-                "stars": 12489
+                "stars": 12490
               }
             }
           ]
@@ -809,6 +856,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 100401612,
                 "language": "Python",
                 "last_commit": "2026-07-01T14:11:29Z",
                 "owner": "Delgan",
@@ -831,11 +879,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12849977,
             "language": "C++",
             "last_commit": "2026-02-27T07:17:13Z",
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7861
+            "stars": 7862
           }
         },
         {
@@ -845,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 88444621,
             "language": "Python",
             "last_commit": "2022-11-07T01:59:31Z",
             "owner": "SerpentAI",
@@ -859,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153316914,
             "language": "C++",
             "last_commit": "2026-08-14T09:33:37Z",
             "owner": "BehaviorTree",
@@ -873,6 +924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74328027,
             "language": "C#",
             "last_commit": "2023-07-07T07:25:48Z",
             "owner": "Tencent",
@@ -887,6 +939,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23766587,
             "language": "Java",
             "last_commit": "2024-10-01T16:56:55Z",
             "owner": "libgdx",
@@ -912,11 +965,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20300177,
                 "language": "Java",
                 "last_commit": "2026-08-18T19:01:59Z",
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51883
+                "stars": 51884
               }
             },
             {
@@ -926,11 +980,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18723836,
                 "language": "Java",
                 "last_commit": "2026-08-18T10:45:11Z",
                 "owner": "chinabugotech",
                 "repo": "hutool",
-                "stars": 30268
+                "stars": 30267
               }
             },
             {
@@ -940,11 +995,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5901900,
                 "language": "Java",
                 "last_commit": "2025-04-02T13:03:33Z",
                 "owner": "LMAX-Exchange",
                 "repo": "disruptor",
-                "stars": 18442
+                "stars": 18443
               }
             }
           ]
@@ -961,11 +1017,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 4524181,
                 "language": "C++",
-                "last_commit": "2026-08-18T19:22:14Z",
+                "last_commit": "2026-08-19T12:02:23Z",
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30500
+                "stars": 30502
               }
             },
             {
@@ -975,11 +1032,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-18T16:59:08Z",
+                "last_commit": "2026-08-19T02:04:42Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18083
+                "stars": 18082
               }
             }
           ]
@@ -996,11 +1054,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 12574344,
                 "language": "Go",
                 "last_commit": "2026-07-11T00:43:07Z",
                 "owner": "spf13",
                 "repo": "cobra",
-                "stars": 44462
+                "stars": 44464
               }
             },
             {
@@ -1010,6 +1069,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 18369373,
                 "language": "Go",
                 "last_commit": "2026-01-12T21:42:47Z",
                 "owner": "spf13",
@@ -1024,11 +1084,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 134018330,
                 "language": "Go",
                 "last_commit": "2026-07-04T08:40:49Z",
                 "owner": "panjf2000",
                 "repo": "ants",
-                "stars": 14490
+                "stars": 14491
               }
             }
           ]
@@ -1046,11 +1107,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5254557,
             "language": "C",
             "last_commit": "2026-08-05T01:25:53Z",
             "owner": "cloudwu",
             "repo": "skynet",
-            "stars": 14122
+            "stars": 14121
           }
         },
         {
@@ -1060,11 +1122,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78869430,
             "language": "Go",
             "last_commit": "2026-08-18T12:54:52Z",
             "owner": "heroiclabs",
             "repo": "nakama",
-            "stars": 13182
+            "stars": 13185
           }
         },
         {
@@ -1074,6 +1137,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5880912,
             "language": "JavaScript",
             "last_commit": "2023-08-10T09:22:21Z",
             "owner": "NetEase",
@@ -1088,11 +1152,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1204412,
             "language": "C++",
             "last_commit": "2026-08-18T07:44:29Z",
             "owner": "TrinityCore",
             "repo": "TrinityCore",
-            "stars": 10730
+            "stars": 10731
           }
         },
         {
@@ -1102,11 +1167,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46684632,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:43:02Z",
+            "last_commit": "2026-08-19T01:33:25Z",
             "owner": "colyseus",
             "repo": "colyseus",
-            "stars": 7202
+            "stars": 7203
           }
         },
         {
@@ -1116,11 +1182,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16907474,
             "language": "C",
             "last_commit": "2022-12-13T18:37:12Z",
             "owner": "kbengine",
             "repo": "kbengine",
-            "stars": 5696
+            "stars": 5695
           }
         },
         {
@@ -1130,6 +1197,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22603527,
             "language": "Go",
             "last_commit": "2024-05-23T07:55:15Z",
             "owner": "name5566",
@@ -1144,11 +1212,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11693709,
             "language": "C++",
             "last_commit": "2026-04-25T22:04:14Z",
             "owner": "cuberite",
             "repo": "cuberite",
-            "stars": 5432
+            "stars": 5433
           }
         },
         {
@@ -1158,11 +1227,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19843809,
             "language": "C++",
             "last_commit": "2023-02-25T06:55:21Z",
             "owner": "ketoo",
             "repo": "NoahGameFrame",
-            "stars": 4144
+            "stars": 4145
           }
         },
         {
@@ -1172,6 +1242,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40964260,
             "language": "Go",
             "last_commit": "2024-03-14T09:01:56Z",
             "owner": "davyxu",
@@ -1186,11 +1257,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99078544,
             "language": "Go",
             "last_commit": "2026-02-26T09:03:31Z",
             "owner": "lonng",
             "repo": "nano",
-            "stars": 3223
+            "stars": 3224
           }
         },
         {
@@ -1200,6 +1272,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62520,
             "language": null,
             "last_commit": "2026-03-06T06:02:51Z",
             "owner": "mangos",
@@ -1214,6 +1287,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125911051,
             "language": "Go",
             "last_commit": "2026-07-22T20:40:01Z",
             "owner": "topfreegames",
@@ -1228,6 +1302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82754872,
             "language": "Go",
             "last_commit": "2024-09-09T07:54:03Z",
             "owner": "liangdas",
@@ -1242,6 +1317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81277424,
             "language": "Java",
             "last_commit": "2026-04-14T09:09:15Z",
             "owner": "jwpttcg66",
@@ -1256,11 +1332,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12054454,
             "language": "C#",
             "last_commit": "2016-07-02T11:23:41Z",
             "owner": "ScutGame",
             "repo": "Scut",
-            "stars": 1338
+            "stars": 1339
           }
         },
         {
@@ -1270,6 +1347,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 9360392,
             "language": "Go",
             "last_commit": "2024-07-25T03:40:39Z",
             "owner": "xtaci",
@@ -1284,11 +1362,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69004268,
             "language": "C++",
             "last_commit": "2026-08-15T15:23:56Z",
             "owner": "sniper00",
             "repo": "moon",
-            "stars": 972
+            "stars": 970
           }
         },
         {
@@ -1298,11 +1377,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529135807,
             "language": "Go",
             "last_commit": "2026-08-09T02:25:01Z",
             "owner": "dobyte",
             "repo": "due",
-            "stars": 943
+            "stars": 944
           }
         },
         {
@@ -1312,6 +1392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71756964,
             "language": "Go",
             "last_commit": "2026-07-15T02:05:41Z",
             "owner": "viphxin",
@@ -1326,6 +1407,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157500914,
             "language": "Go",
             "last_commit": "2022-09-07T14:34:34Z",
             "owner": "zllangct",
@@ -1340,6 +1422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47583743,
             "language": "C++",
             "last_commit": "2026-08-15T21:31:50Z",
             "owner": "ryzom",
@@ -1360,11 +1443,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20580498,
             "language": "Go",
             "last_commit": "2026-08-18T18:53:48Z",
             "owner": "kubernetes",
             "repo": "kubernetes",
-            "stars": 124577
+            "stars": 124592
           }
         },
         {
@@ -1374,6 +1458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113473682,
             "language": "Go",
             "last_commit": "2026-08-18T21:17:53Z",
             "owner": "agones-dev",
@@ -1388,6 +1473,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 91851756,
             "language": "Go",
             "last_commit": "2022-11-06T11:06:59Z",
             "owner": "docker-archive",
@@ -1402,6 +1488,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 145050684,
             "language": "Go",
             "last_commit": "2026-07-12T18:15:57Z",
             "owner": "googleforgames",
@@ -1422,11 +1509,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-18T21:24:22Z",
+            "last_commit": "2026-08-19T12:26:59Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77826
+            "stars": 77838
           }
         },
         {
@@ -1436,11 +1524,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15111821,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T21:28:48Z",
+            "last_commit": "2026-08-19T12:33:04Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76295
+            "stars": 76306
           }
         },
         {
@@ -1450,11 +1539,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3638964,
             "language": "Python",
             "last_commit": "2026-08-11T21:53:38Z",
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70341
+            "stars": 70356
           }
         },
         {
@@ -1464,11 +1554,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6838921,
             "language": "Go",
-            "last_commit": "2026-08-18T14:39:30Z",
+            "last_commit": "2026-08-19T10:06:24Z",
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65744
+            "stars": 65751
           }
         },
         {
@@ -1478,6 +1569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 189840,
             "language": "Python",
             "last_commit": "2026-04-10T13:53:02Z",
             "owner": "fabric",
@@ -1492,11 +1584,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148352,
             "language": "Python",
             "last_commit": "2025-12-21T21:03:13Z",
             "owner": "Supervisor",
             "repo": "supervisor",
-            "stars": 9107
+            "stars": 9108
           }
         },
         {
@@ -1506,11 +1599,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12000586,
             "language": "Shell",
             "last_commit": "2026-08-07T19:24:41Z",
             "owner": "GameServerManagers",
             "repo": "LinuxGSM",
-            "stars": 4890
+            "stars": 4891
           }
         }
       ],
@@ -1526,11 +1620,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21935031,
             "language": null,
-            "last_commit": "2026-08-04T08:08:58Z",
+            "last_commit": "2026-08-19T05:32:17Z",
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72818
+            "stars": 72828
           }
         },
         {
@@ -1540,11 +1635,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128398636,
             "language": null,
             "last_commit": "2024-04-11T11:32:12Z",
             "owner": "xingshaocheng",
             "repo": "architect-awesome",
-            "stars": 60838
+            "stars": 60837
           }
         },
         {
@@ -1554,11 +1650,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75701562,
             "language": "Python",
             "last_commit": "2024-03-28T01:05:23Z",
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18693
+            "stars": 18692
           }
         },
         {
@@ -1568,18 +1665,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41116605,
             "language": null,
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3103
+            "stars": 3105
           }
         }
       ],
       "title": "学习资源"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1588,11 +1686,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21540759,
             "language": "Go",
-            "last_commit": "2026-08-18T14:59:36Z",
+            "last_commit": "2026-08-19T09:52:23Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181419
+            "stars": 181508
           }
         },
         {
@@ -1602,6 +1701,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3112748,
             "language": null,
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
@@ -1616,6 +1716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21693979,
             "language": null,
             "last_commit": "2022-11-17T23:40:26Z",
             "owner": "drobakowski",
@@ -1628,8 +1729,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:29:38.681Z",
+    "last_updated": "2026-08-19T12:33:56.530Z",
     "original_repository": "hstcscolor/awesome-gameserver-cn",
+    "original_repository_id": 114197675,
     "original_repository_sha": "d282a3184bff8e9cdbcb30aabc780f303b5266a0",
     "enhanced_repository": "enhansome/enhansome-gameserver-cn",
     "enhanced_repository_description": null,
