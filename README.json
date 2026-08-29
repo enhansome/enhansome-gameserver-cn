@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Netty project - an event-driven asynchronous network application framework",
+                "homepage": "http://netty.io",
                 "id": 1064563,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:17:22Z",
+                "open_issues": 658,
                 "owner": "netty",
                 "repo": "netty",
-                "stars": 35033
+                "stars": 35033,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -31,12 +36,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirror of Apache MINA",
+                "homepage": null,
                 "id": 206366,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T14:18:05Z",
+                "open_issues": 5,
                 "owner": "apache",
                 "repo": "mina",
-                "stars": 923
+                "stars": 923,
+                "topics": [
+                  "java",
+                  "mina",
+                  "network-client",
+                  "network-server"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -54,12 +69,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform asynchronous I/O",
+                "homepage": "https://libuv.org/",
                 "id": 14812739,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-20T09:27:28Z",
+                "open_issues": 234,
                 "owner": "libuv",
                 "repo": "libuv",
-                "stars": 27142
+                "stars": 27142,
+                "topics": [
+                  "asynchronous",
+                  "deep-io",
+                  "io",
+                  "networking",
+                  "unicorns",
+                  "unix",
+                  "velociraptors",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -70,12 +99,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":zap: KCP - A Fast and Reliable ARQ Protocol",
+                "homepage": null,
                 "id": 28515839,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-23T06:21:10Z",
+                "open_issues": 196,
                 "owner": "skywind3000",
                 "repo": "kcp",
-                "stars": 16889
+                "stars": 16889,
+                "topics": [
+                  "accelerator",
+                  "ack",
+                  "arq",
+                  "c",
+                  "kcp",
+                  "kcptun",
+                  "low-latency",
+                  "protocol",
+                  "quic",
+                  "rtc",
+                  "rtt",
+                  "socket",
+                  "srt",
+                  "tunnel",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -86,12 +136,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Event-driven network library for multi-threaded Linux server in C++11",
+                "homepage": "https://github.com/chenshuo/muduo",
                 "id": 648343,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-23T17:18:04Z",
+                "open_issues": 86,
                 "owner": "chenshuo",
                 "repo": "muduo",
-                "stars": 16226
+                "stars": 16226,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -102,12 +157,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Asio C++ Library",
+                "homepage": "http://think-async.com/Asio",
                 "id": 1368195,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-18T23:47:27Z",
+                "open_issues": 989,
                 "owner": "chriskohlhoff",
                 "repo": "asio",
-                "stars": 6176
+                "stars": 6176,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -118,12 +178,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern C++ network library for developing high performance network services in TCP/UDP/HTTP protocols.",
+                "homepage": null,
                 "id": 83792790,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-10T11:09:16Z",
+                "open_issues": 150,
                 "owner": "Qihoo360",
                 "repo": "evpp",
-                "stars": 3773
+                "stars": 3773,
+                "topics": [
+                  "async-functions",
+                  "cpp11",
+                  "evmc",
+                  "evnsq",
+                  "evpp",
+                  "high-performance",
+                  "http-server",
+                  "libevent",
+                  "network-library",
+                  "nonblocking",
+                  "tcp-server",
+                  "udp-server"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -134,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ENet reliable UDP networking library ",
+                "homepage": null,
                 "id": 4233299,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-23T19:17:35Z",
+                "open_issues": 98,
                 "owner": "lsalzman",
                 "repo": "enet",
-                "stars": 3261
+                "stars": 3261,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -157,12 +240,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.",
+                "homepage": "https://gnet.host",
                 "id": 172292744,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T13:43:46Z",
+                "open_issues": 0,
                 "owner": "panjf2000",
                 "repo": "gnet",
-                "stars": 11238
+                "stars": 11238,
+                "topics": [
+                  "async",
+                  "asynchronous",
+                  "epoll",
+                  "event-driven",
+                  "event-loop",
+                  "go",
+                  "golang",
+                  "goroutine",
+                  "io",
+                  "kqueue",
+                  "network",
+                  "networking",
+                  "non-blocking",
+                  "reactor",
+                  "tcp",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -173,12 +278,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A high-performance non-blocking I/O networking framework focusing on RPC scenarios.",
+                "homepage": null,
                 "id": 342158146,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T08:54:34Z",
+                "open_issues": 7,
                 "owner": "cloudwego",
                 "repo": "netpoll",
-                "stars": 4603
+                "stars": 4603,
+                "topics": [
+                  "golang",
+                  "high-performance",
+                  "net",
+                  "network-programming",
+                  "rpc"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -196,12 +312,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Socket acceptor pool for TCP protocols.",
+                "homepage": null,
                 "id": 3944995,
                 "language": "Erlang",
+                "license": "ISC",
                 "last_commit": "2026-07-28T08:16:21Z",
+                "open_issues": 5,
                 "owner": "ninenines",
                 "repo": "ranch",
-                "stars": 1244
+                "stars": 1244,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -219,12 +340,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DotNetty project – a port of netty, event-driven asynchronous network application framework",
+                "homepage": null,
                 "id": 35290377,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-12T23:42:59Z",
+                "open_issues": 174,
                 "owner": "Azure",
                 "repo": "DotNetty",
-                "stars": 4253
+                "stars": 4253,
+                "topics": [
+                  "networking",
+                  "protocols"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -242,12 +371,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+                "homepage": "https://tokio.rs",
                 "id": 67836789,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T09:14:39Z",
+                "open_issues": 447,
                 "owner": "tokio-rs",
                 "repo": "tokio",
-                "stars": 33031
+                "stars": 33031,
+                "topics": [
+                  "asynchronous",
+                  "networking",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -258,12 +396,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metal I/O library for Rust.",
+                "homepage": null,
                 "id": 23138984,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-17T16:59:26Z",
+                "open_issues": 29,
                 "owner": "tokio-rs",
                 "repo": "mio",
-                "stars": 7089
+                "stars": 7089,
+                "topics": [
+                  "asynchronous",
+                  "networking",
+                  "non-blocking",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -282,12 +430,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Protocol Buffers - Google's data interchange format",
+            "homepage": "http://protobuf.dev",
             "id": 23357588,
             "language": "C++",
-            "last_commit": "2026-08-29T02:26:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:08:23Z",
+            "open_issues": 313,
             "owner": "protocolbuffers",
             "repo": "protobuf",
-            "stars": 71829
+            "stars": 71829,
+            "topics": [
+              "marshalling",
+              "protobuf",
+              "protobuf-runtime",
+              "protoc",
+              "protocol-buffers",
+              "protocol-compiler",
+              "rpc",
+              "serialization"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -298,12 +460,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FlatBuffers: Memory Efficient Serialization Library",
+            "homepage": "https://flatbuffers.dev/",
             "id": 19953044,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T19:49:45Z",
+            "open_issues": 271,
             "owner": "google",
             "repo": "flatbuffers",
-            "stars": 26414
+            "stars": 26414,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "c-sharp",
+              "cross-platform",
+              "flatbuffers",
+              "go",
+              "grpc",
+              "java",
+              "javascript",
+              "json-parser",
+              "marshalling",
+              "mmap",
+              "protobuf",
+              "python",
+              "rpc",
+              "rust",
+              "serialization",
+              "serialization-library",
+              "typescript",
+              "zero-copy"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -314,12 +502,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cap'n Proto serialization/RPC system - core tools and C++ library",
+            "homepage": "https://capnproto.org",
             "id": 9090933,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:39:50Z",
+            "open_issues": 327,
             "owner": "capnproto",
             "repo": "capnproto",
-            "stars": 13169
+            "stars": 13169,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -330,12 +523,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Apache Thrift",
+            "homepage": null,
             "id": 310611,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T23:10:25Z",
+            "open_issues": 16,
             "owner": "apache",
             "repo": "thrift",
-            "stars": 10954
+            "stars": 10954,
+            "topics": [
+              "actionscript",
+              "c",
+              "cplusplus",
+              "csharp",
+              "d",
+              "dart",
+              "http",
+              "library",
+              "network-client",
+              "network-server",
+              "thrift"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -346,12 +556,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Binary Encoding (SBE) - High Performance Message Codec",
+            "homepage": null,
             "id": 12559641,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:42:57Z",
+            "open_issues": 39,
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3497
+            "stars": 3497,
+            "topics": [
+              "c-plus-plus",
+              "codec",
+              "encoder-decoder",
+              "golang",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -373,12 +594,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池",
+                "homepage": "https://github.com/alibaba/druid/wiki",
                 "id": 2700159,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T11:32:54Z",
+                "open_issues": 2326,
                 "owner": "alibaba",
                 "repo": "druid",
-                "stars": 28179
+                "stars": 28179,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -389,12 +615,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+                "homepage": null,
                 "id": 13404515,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-14T21:05:22Z",
+                "open_issues": 544,
                 "owner": "brettwooldridge",
                 "repo": "HikariCP",
-                "stars": 21193
+                "stars": 21193,
+                "topics": [
+                  "connection-pool",
+                  "high-performance",
+                  "java",
+                  "jdbc"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -405,12 +641,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MyBatis SQL mapper framework for Java",
+                "homepage": "http://mybatis.github.io/mybatis-3/",
                 "id": 8205602,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:13:01Z",
+                "open_issues": 210,
                 "owner": "mybatis",
                 "repo": "mybatis-3",
-                "stars": 20438
+                "stars": 20438,
+                "topics": [
+                  "java",
+                  "mybatis",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -421,12 +666,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Idiomatic persistence for Java and relational databases",
+                "homepage": "http://hibernate.org",
                 "id": 961036,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:29:18Z",
+                "open_issues": 161,
                 "owner": "hibernate",
                 "repo": "hibernate-orm",
-                "stars": 6470
+                "stars": 6470,
+                "topics": [
+                  "database",
+                  "envers",
+                  "hibernate",
+                  "hibernate-orm",
+                  "jakarta-persistence",
+                  "jakartaee",
+                  "java",
+                  "jdbc",
+                  "jpa",
+                  "object-relational-mapper",
+                  "object-relational-mapping",
+                  "orm",
+                  "persistence",
+                  "persistence-framework",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -444,12 +710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dapper - a simple object mapper for .Net",
+                "homepage": "https://www.learndapper.com/",
                 "id": 1613345,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-20T14:20:52Z",
+                "open_issues": 546,
                 "owner": "DapperLib",
                 "repo": "Dapper",
-                "stars": 18375
+                "stars": 18375,
+                "topics": [
+                  "ado-net",
+                  "dapper",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -460,12 +735,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+                "homepage": "https://learn.microsoft.com/ef/",
                 "id": 16157746,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-29T02:44:25Z",
+                "open_issues": 2383,
                 "owner": "dotnet",
                 "repo": "efcore",
-                "stars": 14784
+                "stars": 14784,
+                "topics": [
+                  "aspnet-product",
+                  "c-sharp",
+                  "database",
+                  "dotnet-core",
+                  "dotnet-framework",
+                  "dotnet-standard",
+                  "entity-framework",
+                  "hacktoberfest",
+                  "orm"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -483,12 +773,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MySQL/OTP – MySQL and MariaDB client for Erlang/OTP",
+                "homepage": "https://mysql-otp.github.io/mysql-otp/",
                 "id": 25876565,
                 "language": "Erlang",
+                "license": "LGPL-3.0",
                 "last_commit": "2025-06-10T10:02:30Z",
+                "open_issues": 9,
                 "owner": "mysql-otp",
                 "repo": "mysql-otp",
-                "stars": 375
+                "stars": 375,
+                "topics": [
+                  "erlang",
+                  "mariadb",
+                  "mysql"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -506,12 +805,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+                "homepage": "https://gorm.io",
                 "id": 13855476,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-25T07:21:11Z",
+                "open_issues": 522,
                 "owner": "go-gorm",
                 "repo": "gorm",
-                "stars": 39934
+                "stars": 39934,
+                "topics": [
+                  "go",
+                  "golang",
+                  "gorm",
+                  "orm",
+                  "web"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -522,12 +832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "general purpose extensions to golang's database/sql",
+                "homepage": "http://jmoiron.github.io/sqlx/",
                 "id": 7877397,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-08-15T16:19:19Z",
+                "open_issues": 394,
                 "owner": "jmoiron",
                 "repo": "sqlx",
-                "stars": 17723
+                "stars": 17723,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -538,12 +853,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+                "homepage": "https://pkg.go.dev/github.com/go-sql-driver/mysql",
                 "id": 7083242,
                 "language": "Go",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-27T16:17:38Z",
+                "open_issues": 73,
                 "owner": "go-sql-driver",
                 "repo": "mysql",
-                "stars": 15272
+                "stars": 15272,
+                "topics": [
+                  "database",
+                  "go",
+                  "mariadb",
+                  "mysql",
+                  "mysql-driver",
+                  "sql"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -561,12 +888,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Database Toolkit for Python",
+                "homepage": "https://www.sqlalchemy.org",
                 "id": 159271175,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:18:06Z",
+                "open_issues": 208,
                 "owner": "sqlalchemy",
                 "repo": "sqlalchemy",
-                "stars": 12119
+                "stars": 12119,
+                "topics": [
+                  "python",
+                  "sql",
+                  "sqlalchemy"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -585,12 +921,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.",
+            "homepage": "http://redis.io",
             "id": 156018,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:39:35Z",
+            "open_issues": 2918,
             "owner": "redis",
             "repo": "redis",
-            "stars": 76133
+            "stars": 76134,
+            "topics": [
+              "cache",
+              "caching",
+              "database",
+              "distributed-systems",
+              "in-memory",
+              "in-memory-database",
+              "json",
+              "key-value",
+              "key-value-store",
+              "message-broker",
+              "message-queue",
+              "no-sql",
+              "nosql",
+              "open-source",
+              "real-time",
+              "realtime",
+              "redis",
+              "time-series",
+              "vector-databases",
+              "vector-search"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -601,12 +963,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A realtime distributed messaging platform",
+            "homepage": "https://nsq.io",
             "id": 4307108,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-11T18:19:49Z",
+            "open_issues": 77,
             "owner": "nsqio",
             "repo": "nsq",
-            "stars": 25775
+            "stars": 25775,
+            "topics": [
+              "distributed-systems",
+              "go",
+              "message-queue",
+              "messaging",
+              "nsq",
+              "queue"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -617,12 +991,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..",
+            "homepage": "https://redisson.pro",
             "id": 15823460,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:27:24Z",
+            "open_issues": 237,
             "owner": "redisson",
             "repo": "redisson",
-            "stars": 24380
+            "stars": 24380,
+            "topics": [
+              "cache",
+              "distributed",
+              "distributed-locks",
+              "executor",
+              "hibernate",
+              "java",
+              "json",
+              "lock",
+              "map",
+              "micronaut",
+              "quarkus",
+              "queue",
+              "redis",
+              "redis-client",
+              "scheduler",
+              "session",
+              "spring",
+              "tomcat",
+              "valkey",
+              "valkey-client"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -633,12 +1033,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis Go client",
+            "homepage": "https://redis.io",
             "id": 5179099,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-28T22:31:13Z",
+            "open_issues": 64,
             "owner": "redis",
             "repo": "go-redis",
-            "stars": 22224
+            "stars": 22224,
+            "topics": [
+              "go",
+              "golang",
+              "redis",
+              "redis-client",
+              "redis-cluster"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -649,12 +1060,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+            "homepage": "https://nats.io",
             "id": 6443435,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:01:12Z",
+            "open_issues": 542,
             "owner": "nats-io",
             "repo": "nats-server",
-            "stars": 20626
+            "stars": 20627,
+            "topics": [
+              "cloud",
+              "cloud-computing",
+              "cloud-native",
+              "connected-vehicle",
+              "distributed-systems",
+              "edge",
+              "edge-ai",
+              "edge-computing",
+              "go",
+              "golang",
+              "message-bus",
+              "message-queue",
+              "messaging",
+              "microservices-architecture",
+              "nats-server"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -665,12 +1097,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source RabbitMQ: core server and tier 1 (built-in) plugins",
+            "homepage": "https://www.rabbitmq.com/",
             "id": 924551,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T23:59:47Z",
+            "open_issues": 259,
             "owner": "rabbitmq",
             "repo": "rabbitmq-server",
-            "stars": 13820
+            "stars": 13820,
+            "topics": [
+              "amqp",
+              "amqp-0-9-1",
+              "amqp1-0",
+              "message-broker",
+              "messaging",
+              "mqtt",
+              "rabbitmq",
+              "stomp",
+              "streaming",
+              "streams"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -681,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Multithreaded Fork of Redis",
+            "homepage": "https://keydb.dev",
             "id": 168712350,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-05-29T08:55:22Z",
+            "open_issues": 274,
             "owner": "Snapchat",
             "repo": "KeyDB",
-            "stars": 12509
+            "stars": 12509,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -708,12 +1161,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The reliable, generic, fast and flexible logging framework for Java.",
+                "homepage": "http://logback.qos.ch",
                 "id": 283325,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:18:00Z",
+                "open_issues": 336,
                 "owner": "qos-ch",
                 "repo": "logback",
-                "stars": 3234
+                "stars": 3234,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -724,12 +1182,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache log4j1",
+                "homepage": null,
                 "id": 206384,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-03T18:51:42Z",
+                "open_issues": 12,
                 "owner": "apache",
                 "repo": "logging-log4j1",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "log4j"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -747,12 +1212,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple .NET logging with fully-structured events",
+                "homepage": "https://serilog.net",
                 "id": 8198511,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-31T10:58:30Z",
+                "open_issues": 18,
                 "owner": "serilog",
                 "repo": "serilog",
-                "stars": 8033
+                "stars": 8033,
+                "topics": [
+                  "serilog"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -763,12 +1235,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NLog - Flexible and Structured Logging for various .NET Platforms",
+                "homepage": "https://nlog-project.org",
                 "id": 5780416,
                 "language": "C#",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T05:40:17Z",
+                "open_issues": 52,
                 "owner": "NLog",
                 "repo": "NLog",
-                "stars": 6544
+                "stars": 6544,
+                "topics": [
+                  "aot",
+                  "aot-compatible",
+                  "c-sharp",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "json",
+                  "logger",
+                  "logging",
+                  "logging-library",
+                  "maui",
+                  "mono",
+                  "netstandard",
+                  "netstandard20",
+                  "nlog",
+                  "structured-logging",
+                  "uwp",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -786,12 +1282,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast C++ logging library.",
+                "homepage": null,
                 "id": 26038648,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-08T10:51:08Z",
+                "open_issues": 50,
                 "owner": "gabime",
                 "repo": "spdlog",
-                "stars": 29540
+                "stars": 29540,
+                "topics": [
+                  "cpp",
+                  "cpp11",
+                  "header-only",
+                  "logging",
+                  "spdlog"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -802,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "C++ implementation of the Google logging module",
+                "homepage": "http://google.github.io/glog/",
                 "id": 31197250,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-17T11:51:44Z",
+                "open_issues": 46,
                 "owner": "google",
                 "repo": "glog",
-                "stars": 7393
+                "stars": 7393,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -825,12 +1337,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A logging framework for Erlang/OTP",
+                "homepage": null,
                 "id": 1948141,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-26T16:09:45Z",
+                "open_issues": 52,
                 "owner": "erlang-lager",
                 "repo": "lager",
-                "stars": 1131
+                "stars": 1131,
+                "topics": [
+                  "erlang",
+                  "logging",
+                  "otp"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -848,12 +1369,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured, pluggable logging for Go.",
+                "homepage": null,
                 "id": 13628513,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:07:36Z",
+                "open_issues": 45,
                 "owner": "sirupsen",
                 "repo": "logrus",
-                "stars": 25748
+                "stars": 25748,
+                "topics": [
+                  "go",
+                  "logging",
+                  "logrus"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -864,12 +1394,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazing fast, structured, leveled logging in Go.",
+                "homepage": "https://pkg.go.dev/go.uber.org/zap",
                 "id": 52034309,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T21:52:06Z",
+                "open_issues": 185,
                 "owner": "uber-go",
                 "repo": "zap",
-                "stars": 24646
+                "stars": 24647,
+                "topics": [
+                  "golang",
+                  "logging",
+                  "structured-logging",
+                  "zap"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -880,12 +1420,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zero Allocation JSON Logger",
+                "homepage": null,
                 "id": 91054480,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T15:12:00Z",
+                "open_issues": 146,
                 "owner": "rs",
                 "repo": "zerolog",
-                "stars": 12495
+                "stars": 12495,
+                "topics": [
+                  "golang",
+                  "json",
+                  "logging",
+                  "structured-logging",
+                  "zerolog"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -903,12 +1454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python logging made (stupidly) simple",
+                "homepage": "https://loguru.readthedocs.io",
                 "id": 100401612,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T18:09:18Z",
+                "open_issues": 258,
                 "owner": "Delgan",
                 "repo": "loguru",
-                "stars": 24089
+                "stars": 24089,
+                "topics": [
+                  "log",
+                  "logger",
+                  "logging",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -927,12 +1488,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Industry-standard navigation-mesh toolset for games",
+            "homepage": "http://recastnav.com/",
             "id": 12849977,
             "language": "C++",
+            "license": "Zlib",
             "last_commit": "2026-02-27T07:17:13Z",
+            "open_issues": 133,
             "owner": "recastnavigation",
             "repo": "recastnavigation",
-            "stars": 7879
+            "stars": 7879,
+            "topics": [
+              "ai",
+              "crowd-simulation",
+              "game",
+              "game-ai",
+              "game-dev",
+              "game-development",
+              "game-tool",
+              "gamedev",
+              "navigation",
+              "navmesh",
+              "navmesh-generation",
+              "pathfinding",
+              "pathfinding-library"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -943,12 +1523,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!",
+            "homepage": "http://serpent.ai",
             "id": 88444621,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-07T01:59:31Z",
+            "open_issues": 2,
             "owner": "SerpentAI",
             "repo": "SerpentAI",
-            "stars": 6990
+            "stars": 6990,
+            "topics": [
+              "artificial-intelligence",
+              "computer-vision",
+              "deep-learning",
+              "framework",
+              "machine-learning",
+              "python",
+              "video-games"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -959,12 +1552,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Behavior Trees Library in C++. Batteries included.",
+            "homepage": "https://behaviortree.dev",
             "id": 153316914,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-14T09:33:37Z",
+            "open_issues": 56,
             "owner": "BehaviorTree",
             "repo": "BehaviorTree.CPP",
-            "stars": 4175
+            "stars": 4175,
+            "topics": [
+              "ai",
+              "behaviortree",
+              "coordination",
+              "games",
+              "robotics",
+              "ros",
+              "state-machine"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -975,12 +1581,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "behaviac is a framework of the game AI development, and it also can be used as a rapid game prototype design tool. behaviac supports the behavior tree, finite state machine and hierarchical task network(BT, FSM, HTN)",
+            "homepage": "http://www.behaviac.com/",
             "id": 74328027,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-07T07:25:48Z",
+            "open_issues": 100,
             "owner": "Tencent",
             "repo": "behaviac",
-            "stars": 3044
+            "stars": 3044,
+            "topics": [
+              "behavior-tree",
+              "behavior-trees",
+              "bt",
+              "fsm",
+              "game",
+              "game-ai",
+              "htn",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -991,12 +1611,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Artificial Intelligence framework for games based on libGDX or not. Features: Steering Behaviors, Formation Motion, Pathfinding, Behavior Trees and Finite State Machines",
+            "homepage": null,
             "id": 23766587,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-01T16:56:55Z",
+            "open_issues": 33,
             "owner": "libgdx",
             "repo": "gdx-ai",
-            "stars": 1300
+            "stars": 1300,
+            "topics": [
+              "artificial-intelligence",
+              "behavior-trees",
+              "decision-making",
+              "formation-motion",
+              "framework",
+              "gamedev",
+              "java",
+              "libgdx",
+              "movement",
+              "npc",
+              "pathfinding",
+              "state-machines",
+              "steering-behaviors"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1018,12 +1657,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google core libraries for Java",
+                "homepage": "https://guava.dev/",
                 "id": 20300177,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:41:24Z",
+                "open_issues": 748,
                 "owner": "google",
                 "repo": "guava",
-                "stars": 51896
+                "stars": 51896,
+                "topics": [
+                  "guava",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -1034,12 +1681,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍬A set of tools that keep Java sweet.",
+                "homepage": "https://hutool.cn",
                 "id": 18723836,
                 "language": "Java",
+                "license": "MulanPSL-2.0",
                 "last_commit": "2026-08-18T10:45:11Z",
+                "open_issues": 8,
                 "owner": "chinabugotech",
                 "repo": "hutool",
-                "stars": 30267
+                "stars": 30266,
+                "topics": [
+                  "http",
+                  "hutool",
+                  "java",
+                  "json",
+                  "orm",
+                  "tool",
+                  "util"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -1050,12 +1710,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High Performance Inter-Thread Messaging Library",
+                "homepage": "http://lmax-exchange.github.io/disruptor/",
                 "id": 5901900,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-02T13:03:33Z",
+                "open_issues": 17,
                 "owner": "LMAX-Exchange",
                 "repo": "disruptor",
-                "stars": 18456
+                "stars": 18456,
+                "topics": [
+                  "concurrency",
+                  "disruptor",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -1073,12 +1742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source C++ library developed and used at Facebook.",
+                "homepage": null,
                 "id": 4524181,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T01:50:55Z",
+                "open_issues": 465,
                 "owner": "facebook",
                 "repo": "folly",
-                "stars": 30515
+                "stars": 30515,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -1089,12 +1763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abseil Common Libraries (C++)",
+                "homepage": "https://abseil.io",
                 "id": 104231541,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-29T02:21:03Z",
+                "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18104
+                "stars": 18105,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -1112,12 +1791,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Commander for modern Go CLI interactions",
+                "homepage": "https://cobra.dev",
                 "id": 12574344,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-11T00:43:07Z",
+                "open_issues": 437,
                 "owner": "spf13",
                 "repo": "cobra",
-                "stars": 44524
+                "stars": 44524,
+                "topics": [
+                  "cli",
+                  "cli-app",
+                  "cobra",
+                  "cobra-generator",
+                  "cobra-library",
+                  "command",
+                  "command-cobra",
+                  "command-line",
+                  "commandline",
+                  "go",
+                  "golang",
+                  "golang-application",
+                  "golang-library",
+                  "posix",
+                  "posix-compliant-flags",
+                  "subcommands"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -1128,12 +1829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go configuration with fangs",
+                "homepage": null,
                 "id": 18369373,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-01-12T21:42:47Z",
+                "open_issues": 132,
                 "owner": "spf13",
                 "repo": "viper",
-                "stars": 30451
+                "stars": 30451,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             },
@@ -1144,12 +1850,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.",
+                "homepage": "https://ants.andypan.me/",
                 "id": 134018330,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-04T08:40:49Z",
+                "open_issues": 1,
                 "owner": "panjf2000",
                 "repo": "ants",
-                "stars": 14493
+                "stars": 14493,
+                "topics": [
+                  "ants",
+                  "go",
+                  "goroutine",
+                  "goroutine-pool",
+                  "pool",
+                  "worker-pool"
+                ]
               },
               "first_seen": "2026-08-28T05:10:24.172Z"
             }
@@ -1168,12 +1886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight online game framework",
+            "homepage": null,
             "id": 5254557,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:45:56Z",
+            "open_issues": 27,
             "owner": "cloudwu",
             "repo": "skynet",
-            "stars": 14133
+            "stars": 14133,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1184,12 +1907,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.",
+            "homepage": "https://heroiclabs.com",
             "id": 78869430,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T16:12:14Z",
+            "open_issues": 128,
             "owner": "heroiclabs",
             "repo": "nakama",
-            "stars": 13229
+            "stars": 13229,
+            "topics": [
+              "backend",
+              "cpp",
+              "csharp",
+              "dotnet",
+              "game",
+              "game-backend",
+              "game-framework",
+              "gamedev",
+              "go",
+              "godot",
+              "javascript",
+              "lua",
+              "multiplayer",
+              "nakama",
+              "server",
+              "typescript",
+              "unity",
+              "unity3d",
+              "unreal",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1200,12 +1949,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A fast,scalable,distributed game server framework for Node.js.",
+            "homepage": "http://pomelo.netease.com",
             "id": 5880912,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-10T09:22:21Z",
+            "open_issues": 161,
             "owner": "NetEase",
             "repo": "pomelo",
-            "stars": 11867
+            "stars": 11867,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1216,12 +1970,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrinityCore Open Source MMO Framework (master = 12.1.0.69497, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+            "homepage": "http://www.trinitycore.org",
             "id": 1204412,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T19:17:33Z",
+            "open_issues": 1532,
             "owner": "TrinityCore",
             "repo": "TrinityCore",
-            "stars": 10746
+            "stars": 10747,
+            "topics": [
+              "hacktoberfest",
+              "linux",
+              "mmorpg",
+              "multi-platform",
+              "multiplayer",
+              "trinitycore",
+              "wow"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1232,12 +1999,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚔ Multiplayer Framework for Node.js",
+            "homepage": "https://colyseus.io",
             "id": 46684632,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:14:32Z",
+            "open_issues": 19,
             "owner": "colyseus",
             "repo": "colyseus",
-            "stars": 7229
+            "stars": 7229,
+            "topics": [
+              "colyseus",
+              "game-server",
+              "multiplayer",
+              "multiplayer-game-engine",
+              "multiplayer-game-server",
+              "networking",
+              "nodejs",
+              "realtime-games",
+              "turn-based",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1248,12 +2031,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A MMOG engine of server.",
+            "homepage": "https://kbengine.github.io",
             "id": 16907474,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-13T18:37:12Z",
+            "open_issues": 176,
             "owner": "kbengine",
             "repo": "kbengine",
-            "stars": 5699
+            "stars": 5699,
+            "topics": [
+              "game-server",
+              "gameserver",
+              "kbengine",
+              "mmog-engine",
+              "mmorpg",
+              "server",
+              "unity3d",
+              "unrealengine"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1264,12 +2061,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game server framework in Go (golang)",
+            "homepage": null,
             "id": 22603527,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-23T07:55:15Z",
+            "open_issues": 26,
             "owner": "name5566",
             "repo": "leaf",
-            "stars": 5518
+            "stars": 5518,
+            "topics": [
+              "game-framework",
+              "game-server",
+              "go",
+              "golang",
+              "leaf"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1280,12 +2088,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, fast and extensible game server for Minecraft",
+            "homepage": "https://cuberite.org",
             "id": 11693709,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-25T22:04:14Z",
+            "open_issues": 578,
             "owner": "cuberite",
             "repo": "cuberite",
-            "stars": 5443
+            "stars": 5443,
+            "topics": [
+              "android",
+              "c-plus-plus",
+              "cuberite",
+              "linux",
+              "lua",
+              "minecraft",
+              "plugins",
+              "raspberry-pi",
+              "server",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1296,12 +2120,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, scalable, distributed game server engine/framework for C++, include the actor library, network library, can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.",
+            "homepage": "https://github.com/ketoo/NoahGameFrame/wiki",
             "id": 19843809,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-25T06:55:21Z",
+            "open_issues": 25,
             "owner": "ketoo",
             "repo": "NoahGameFrame",
-            "stars": 4146
+            "stars": 4146,
+            "topics": [
+              "architecture",
+              "game",
+              "game-development",
+              "game-engine",
+              "game-server",
+              "gamedev",
+              "gameserver",
+              "mmo",
+              "mmorpg",
+              "server-architecture",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1312,12 +2154,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance, simple, extensible golang open source network library",
+            "homepage": null,
             "id": 40964260,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T21:06:27Z",
+            "open_issues": 8,
             "owner": "davyxu",
             "repo": "cellnet",
-            "stars": 4057
+            "stars": 4057,
+            "topics": [
+              "game",
+              "golang",
+              "networking",
+              "protobuf",
+              "rpc",
+              "server",
+              "socket",
+              "tcp-server"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1328,12 +2184,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, facility, high performance golang based game server framework",
+            "homepage": null,
             "id": 99078544,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-26T09:03:31Z",
+            "open_issues": 33,
             "owner": "lonng",
             "repo": "nano",
-            "stars": 3223
+            "stars": 3223,
+            "topics": [
+              "distributed-systems",
+              "game",
+              "golang",
+              "json",
+              "lightweight",
+              "micro",
+              "networking",
+              "protobuf",
+              "server",
+              "tcp-server",
+              "websocket-server"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1344,12 +2217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the master Information repository for MaNGOS",
+            "homepage": "http://getmangos.eu",
             "id": 62520,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-06T06:02:51Z",
+            "open_issues": 2,
             "owner": "mangos",
             "repo": "MaNGOS",
-            "stars": 3106
+            "stars": 3106,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1360,12 +2238,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.",
+            "homepage": null,
             "id": 125911051,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-22T20:40:01Z",
+            "open_issues": 67,
             "owner": "topfreegames",
             "repo": "pitaya",
-            "stars": 2825
+            "stars": 2825,
+            "topics": [
+              "android",
+              "game",
+              "game-framework",
+              "game-server",
+              "golang-application",
+              "ios"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1376,12 +2266,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mqant是一款基于Golang语言的简洁,高效,高性能的分布式微服务框架",
+            "homepage": null,
             "id": 82754872,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-09T07:54:03Z",
+            "open_issues": 21,
             "owner": "liangdas",
             "repo": "mqant",
-            "stars": 2517
+            "stars": 2517,
+            "topics": [
+              "game-server",
+              "golang",
+              "micro-service",
+              "mqant",
+              "mqtt",
+              "python-golang-mqant"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1392,12 +2294,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用netty4.X实现的手机游戏分布式服务器,支持tcp,udp,http,websocket链接，采用protobuf自定义协议栈进行网络通信,支持rpc远程调用,使用mybatis3支持db存储分库分表，支持异步mysql存储，db保存时同步更新reids缓存。 使用ExcelToCode工程，将excel数据生成java类和json数据字典，DictService直接读取json，减少数据字典部分代码。使用game-executor工程，增加游戏内的异步事件全局服务, 支持事件sharding,均衡的异步执行事件逻辑",
+            "homepage": null,
             "id": 81277424,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-14T09:09:15Z",
+            "open_issues": 3,
             "owner": "jwpttcg66",
             "repo": "NettyGameServer",
-            "stars": 1671
+            "stars": 1671,
+            "topics": [
+              "async-db",
+              "cocosserver",
+              "game",
+              "game-db",
+              "game-engine",
+              "game-proxy",
+              "game-server",
+              "gameserver",
+              "http-server",
+              "httpserver",
+              "mysql-server",
+              "netty",
+              "netty-game-server",
+              "netty-server",
+              "nettygame",
+              "redis",
+              "rpcserver",
+              "springboot",
+              "web-socket-server"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1408,12 +2335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scut is a free, open source, stable game server framework, which support C#/Python/Lua script, and support Unity3d, Cocos2dx, FlashAir client access.",
+            "homepage": null,
             "id": 12054454,
             "language": "C#",
+            "license": null,
             "last_commit": "2016-07-02T11:23:41Z",
+            "open_issues": 17,
             "owner": "ScutGame",
             "repo": "Scut",
-            "stars": 1340
+            "stars": 1340,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1424,12 +2356,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Game Server Skeleton in golang.",
+            "homepage": null,
             "id": 9360392,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-07-25T03:40:39Z",
+            "open_issues": 0,
             "owner": "xtaci",
             "repo": "gonet",
-            "stars": 1286
+            "stars": 1286,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1440,12 +2377,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight game server framework implemented with Actor Model",
+            "homepage": null,
             "id": 69004268,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-15T15:23:56Z",
+            "open_issues": 0,
             "owner": "sniper00",
             "repo": "moon",
-            "stars": 973
+            "stars": 973,
+            "topics": [
+              "actor-model",
+              "coroutine",
+              "cpp",
+              "cpp17",
+              "cross-platform",
+              "game",
+              "game-server",
+              "lua",
+              "multithreading",
+              "network",
+              "unity"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1456,12 +2410,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于Go语言开发的高性能分布式游戏服务器框架",
+            "homepage": "https://dobyte.github.io/due-docs/",
             "id": 529135807,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:04:04Z",
+            "open_issues": 28,
             "owner": "dobyte",
             "repo": "due",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "actor",
+              "actor-framework",
+              "distributed-framework",
+              "distributed-game-framework",
+              "distributed-systems",
+              "due",
+              "game",
+              "game-engine",
+              "game-framework",
+              "game-server",
+              "go",
+              "go-framework",
+              "grpc",
+              "kcp-server",
+              "tcp",
+              "tcp-server",
+              "websocket",
+              "websocket-server"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1472,12 +2450,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "高性能golang网络库，游戏开发脚手架",
+            "homepage": null,
             "id": 71756964,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-15T02:05:41Z",
+            "open_issues": 0,
             "owner": "viphxin",
             "repo": "xingo",
-            "stars": 862
+            "stars": 862,
+            "topics": [
+              "distributed-systems",
+              "game",
+              "golang",
+              "network"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1488,12 +2476,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A developing game server framework,based on Entity Component System(ECS).",
+            "homepage": null,
             "id": 157500914,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-07T14:34:34Z",
+            "open_issues": 9,
             "owner": "zllangct",
             "repo": "rockgo",
-            "stars": 695
+            "stars": 695,
+            "topics": [
+              "actor-model",
+              "concurrency",
+              "distributed",
+              "ecs",
+              "entity-component-system",
+              "extensible",
+              "gameframework",
+              "gameserver",
+              "golang",
+              "lightweight",
+              "rpc",
+              "tcp-server",
+              "udp-server",
+              "websocket-server",
+              "websockets"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1504,12 +2513,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ryzom Core is the open-source project related to the Ryzom game. This community repository is synchronized with the Ryzom Forge repository, based on the Core branch.",
+            "homepage": "https://wiki.ryzom.dev",
             "id": 47583743,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-29T02:32:01Z",
+            "open_issues": 103,
             "owner": "ryzom",
             "repo": "ryzomcore",
-            "stars": 457
+            "stars": 457,
+            "topics": [
+              "game",
+              "game-engine",
+              "mmorpg",
+              "mmorpg-client",
+              "mmorpg-engine",
+              "mmorpg-server",
+              "ryzom",
+              "ryzom-game"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1526,12 +2549,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-Grade Container Scheduling and Management",
+            "homepage": "https://kubernetes.io",
             "id": 20580498,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:04:04Z",
+            "open_issues": 2980,
             "owner": "kubernetes",
             "repo": "kubernetes",
-            "stars": 125326
+            "stars": 125328,
+            "topics": [
+              "cncf",
+              "containers",
+              "go",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1542,12 +2575,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes",
+            "homepage": "https://agones.dev",
             "id": 113473682,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:29:03Z",
+            "open_issues": 63,
             "owner": "agones-dev",
             "repo": "agones",
-            "stars": 6996
+            "stars": 6996,
+            "topics": [
+              "agones",
+              "dedicated-game-servers",
+              "dedicated-gameservers",
+              "game-development",
+              "game-server",
+              "go",
+              "golang",
+              "kubernetes",
+              "multiplayer"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1558,12 +2606,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:",
+            "homepage": "https://www.docker.com/products/container-runtime",
             "id": 91851756,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-06T11:06:59Z",
+            "open_issues": 2,
             "owner": "docker-archive",
             "repo": "docker-ce",
-            "stars": 5745
+            "stars": 5745,
+            "topics": [
+              "docker",
+              "git",
+              "golang",
+              "moby"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1574,12 +2632,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible, extensible, and scalable video game matchmaking.",
+            "homepage": "http://open-match.dev",
             "id": 145050684,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-12T18:15:57Z",
+            "open_issues": 80,
             "owner": "googleforgames",
             "repo": "open-match",
-            "stars": 3424
+            "stars": 3424,
+            "topics": [
+              "game-development",
+              "go",
+              "golang",
+              "kubernetes",
+              "matchmaking",
+              "multiplayer"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1596,12 +2666,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free and Open Source, Distributed, RESTful Search Engine",
+            "homepage": "https://www.elastic.co/products/elasticsearch",
             "id": 507775,
             "language": "Java",
-            "last_commit": "2026-08-29T02:31:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:14:29Z",
+            "open_issues": 5997,
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77877
+            "stars": 77877,
+            "topics": [
+              "elasticsearch",
+              "java",
+              "search-engine"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1612,12 +2691,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+            "homepage": "https://grafana.com",
             "id": 15111821,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T02:59:04Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:24:15Z",
+            "open_issues": 3317,
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76465
+            "stars": 76465,
+            "topics": [
+              "alerting",
+              "analytics",
+              "business-intelligence",
+              "dashboard",
+              "data-visualization",
+              "elasticsearch",
+              "go",
+              "grafana",
+              "hacktoberfest",
+              "influxdb",
+              "metrics",
+              "monitoring",
+              "mysql",
+              "postgres",
+              "prometheus"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1628,12 +2728,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+            "homepage": "https://www.ansible.com/",
             "id": 3638964,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T14:26:26Z",
+            "open_issues": 836,
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70491
+            "stars": 70491,
+            "topics": [
+              "ansible",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1644,12 +2752,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Prometheus monitoring system and time series database.",
+            "homepage": "https://prometheus.io/",
             "id": 6838921,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T16:51:00Z",
+            "open_issues": 879,
             "owner": "prometheus",
             "repo": "prometheus",
-            "stars": 65878
+            "stars": 65878,
+            "topics": [
+              "alerting",
+              "graphing",
+              "hacktoberfest",
+              "metrics",
+              "monitoring",
+              "prometheus",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1660,12 +2781,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, Pythonic remote execution and deployment.",
+            "homepage": "http://fabfile.org",
             "id": 189840,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-04-10T13:53:02Z",
+            "open_issues": 507,
             "owner": "fabric",
             "repo": "fabric",
-            "stars": 15487
+            "stars": 15487,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1676,12 +2802,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervisor process control system for Unix (supervisord)",
+            "homepage": "http://supervisord.org",
             "id": 1148352,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-21T21:03:13Z",
+            "open_issues": 182,
             "owner": "Supervisor",
             "repo": "supervisor",
-            "stars": 9108
+            "stars": 9108,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1692,12 +2823,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The command-line tool for quick, simple deployment and management of Linux dedicated game servers.",
+            "homepage": "https://linuxgsm.com",
             "id": 12000586,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-07T19:24:41Z",
+            "open_issues": 403,
             "owner": "GameServerManagers",
             "repo": "LinuxGSM",
-            "stars": 4895
+            "stars": 4895,
+            "topics": [
+              "bash",
+              "dedicated-game-servers",
+              "game",
+              "game-server",
+              "game-servers",
+              "gameserver",
+              "gaming",
+              "linux",
+              "linuxgsm",
+              "multiplayer-game-server",
+              "server",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1714,12 +2863,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+            "homepage": "http://fffaraz.github.io/awesome-cpp/",
             "id": 21935031,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-22T08:36:07Z",
+            "open_issues": 312,
             "owner": "fffaraz",
             "repo": "awesome-cpp",
-            "stars": 72981
+            "stars": 72983,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "cpp-library",
+              "cppcon",
+              "libraries",
+              "list",
+              "lists",
+              "programming-tutorial",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1730,12 +2897,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "后端架构师技术图谱",
+            "homepage": null,
             "id": 128398636,
             "language": null,
+            "license": null,
             "last_commit": "2024-04-11T11:32:12Z",
+            "open_issues": 63,
             "owner": "xingshaocheng",
             "repo": "architect-awesome",
-            "stars": 60845
+            "stars": 60845,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1746,12 +2918,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Study Path for Game Programmer",
+            "homepage": null,
             "id": 75701562,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-28T01:05:23Z",
+            "open_issues": 31,
             "owner": "miloyip",
             "repo": "game-programmer",
-            "stars": 18694
+            "stars": 18694,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1762,12 +2939,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of free software and free culture resources for making amazing games. (mirror)",
+            "homepage": "https://notabug.org/Calinou/awesome-gamedev",
             "id": 41116605,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-08-25T18:12:52Z",
+            "open_issues": 16,
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3116
+            "stars": 3116,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "game",
+              "game-development",
+              "game-programming"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1784,12 +2972,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Go frameworks, libraries and software",
+            "homepage": "https://awesome-go.com",
             "id": 21540759,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T16:52:34Z",
+            "open_issues": 219,
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 182557
+            "stars": 182559,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "go",
+              "golang",
+              "golang-library",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1800,12 +3000,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+            "homepage": null,
             "id": 3112748,
             "language": null,
+            "license": null,
             "last_commit": "2025-09-13T20:06:46Z",
+            "open_issues": 1,
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24943
+            "stars": 24943,
+            "topics": [
+              "game",
+              "game-development",
+              "game-engine",
+              "gamedev",
+              "games",
+              "html5-games"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         },
@@ -1816,12 +3028,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Erlang libraries, resources and shiny things.",
+            "homepage": null,
             "id": 21693979,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-17T23:40:26Z",
+            "open_issues": 23,
             "owner": "drobakowski",
             "repo": "awesome-erlang",
-            "stars": 1707
+            "stars": 1707,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "erlang",
+              "erlang-library",
+              "lists"
+            ]
           },
           "first_seen": "2026-08-28T05:10:24.172Z"
         }
@@ -1830,15 +3053,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:07:10.060Z",
+    "last_updated": "2026-08-29T04:27:22.698Z",
     "original_repository_info": {
       "archived": false,
+      "description": "中文游戏服务器资源大全",
+      "homepage": null,
       "id": 114197675,
       "language": null,
+      "license": "GPL-3.0",
       "last_commit": "2026-04-28T01:59:51Z",
+      "open_issues": 3,
       "owner": "hstcscolor",
       "repo": "awesome-gameserver-cn",
-      "stars": 1956
+      "stars": 1956,
+      "topics": [
+        "awesome-list",
+        "chinese",
+        "gamesever"
+      ]
     },
     "original_repository_sha": "d282a3184bff8e9cdbcb30aabc780f303b5266a0",
     "enhanced_repository": "enhansome/enhansome-gameserver-cn",
