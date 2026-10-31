@@ -23,40 +23,40 @@
 *网络相关的库和工具*
 
 * Java
-  * [Netty](https://github.com/netty/netty) ⭐ 35,068 | 🐛 742 | 🌐 Java | 📅 2026-10-29 - Netty是一个高性能、异步事件驱动的NIO框架，它提供了对TCP、UDP和文件传输的支持
-  * [Mina](https://github.com/apache/mina) ⭐ 919 | 🐛 12 | 🌐 Java | 📅 2026-10-29 - Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架
+  * [Netty](https://github.com/netty/netty) ⭐ 35,066 | 🐛 746 | 🌐 Java | 📅 2026-10-31 - Netty是一个高性能、异步事件驱动的NIO框架，它提供了对TCP、UDP和文件传输的支持
+  * [Mina](https://github.com/apache/mina) ⭐ 919 | 🐛 11 | 🌐 Java | 📅 2026-10-30 - Apache Mina是一个能够帮助用户开发高性能和高伸缩性网络应用程序的框架
 * C++
-  * [libuv](https://github.com/libuv/libuv) ⭐ 27,288 | 🐛 259 | 🌐 C | 📅 2026-10-28 - libuv 是 Node 的新跨平台抽象层,用于抽象 Windows 的 IOCP 及 Unix 的 libev
-  * [KCP](https://github.com/skywind3000/kcp) ⭐ 16,947 | 🐛 200 | 🌐 C | 📅 2026-06-23 - 快速可靠的 ARQ 协议，比 TCP 浪费带宽换低延迟
-  * [muduo](https://github.com/chenshuo/muduo) ⭐ 16,281 | 🐛 87 | 🌐 C++ | 📅 2025-12-23 - 陈硕出品的基于 Reactor 模式的现代 C++ 网络库
-  * [asio](https://github.com/chriskohlhoff/asio) ⭐ 6,221 | 🐛 996 | 🌐 C++ | 📅 2026-10-29 - 跨平台 C++ 网络与底层 I/O 库，Boost.Asio 的独立版本
-  * [evpp](https://github.com/Qihoo360/evpp) ⭐ 3,774 | 🐛 151 | 🌐 C++ | 📅 2024-04-10 - 360 出品的现代 C++ 高性能网络库
-  * [enet](https://github.com/lsalzman/enet) ⭐ 3,297 | 🐛 98 | 🌐 C | 📅 2026-06-23 - 面向游戏的可靠 UDP 网络库
+  * [libuv](https://github.com/libuv/libuv) ⭐ 27,290 | 🐛 259 | 🌐 C | 📅 2026-10-30 - libuv 是 Node 的新跨平台抽象层,用于抽象 Windows 的 IOCP 及 Unix 的 libev
+  * [KCP](https://github.com/skywind3000/kcp) ⭐ 16,951 | 🐛 200 | 🌐 C | 📅 2026-06-23 - 快速可靠的 ARQ 协议，比 TCP 浪费带宽换低延迟
+  * [muduo](https://github.com/chenshuo/muduo) ⭐ 16,283 | 🐛 87 | 🌐 C++ | 📅 2025-12-23 - 陈硕出品的基于 Reactor 模式的现代 C++ 网络库
+  * [asio](https://github.com/chriskohlhoff/asio) ⭐ 6,222 | 🐛 996 | 🌐 C++ | 📅 2026-10-29 - 跨平台 C++ 网络与底层 I/O 库，Boost.Asio 的独立版本
+  * [evpp](https://github.com/Qihoo360/evpp) ⭐ 3,775 | 🐛 151 | 🌐 C++ | 📅 2024-04-10 - 360 出品的现代 C++ 高性能网络库
+  * [enet](https://github.com/lsalzman/enet) ⭐ 3,299 | 🐛 98 | 🌐 C | 📅 2026-06-23 - 面向游戏的可靠 UDP 网络库
   * [libevent](http://libevent.org/) - libevent是一个轻量级的基于事件驱动的高性能的开源网络库,并且支持多个平台
   * [libev](http://software.schmorp.de/pkg/libev.html) - 较libevent而言，设计更简练，性能更好，但对Windows支持不够好
 * Go
-  * [gnet](https://github.com/panjf2000/gnet) ⭐ 11,258 | 🐛 6 | 🌐 Go | 📅 2026-07-09 - 高性能、轻量级、非阻塞的事件驱动 Go 网络框架
-  * [netpoll](https://github.com/cloudwego/netpoll) ⭐ 4,610 | 🐛 9 | 🌐 Go | 📅 2026-08-06 - 字节跳动开源的高性能 Go 网络库
+  * [gnet](https://github.com/panjf2000/gnet) ⭐ 11,260 | 🐛 6 | 🌐 Go | 📅 2026-07-09 - 高性能、轻量级、非阻塞的事件驱动 Go 网络框架
+  * [netpoll](https://github.com/cloudwego/netpoll) ⭐ 4,613 | 🐛 9 | 🌐 Go | 📅 2026-08-06 - 字节跳动开源的高性能 Go 网络库
 * Python
   * [Twisted](http://twistedmatrix.com/) - Twisted是用Python实现的基于事件驱动的网络引擎框架
   * [Gevent](http://www.gevent.org/) - Gevent是一种基于协程的Python网络库，它用到Greenlet提供的，封装了libevent事件循环的高层同步API
 * Erlang
   * [ranch](https://github.com/ninenines/ranch) ⭐ 1,245 | 🐛 10 | 🌐 Erlang | 📅 2026-10-23 - cowboy 项目下的Tcp网络库
 * C#
-  * [DotNetty](https://github.com/Azure/DotNetty) ⭐ 4,252 | 🐛 175 | 🌐 C# | 📅 2026-01-12 - netty 的C#版
+  * [DotNetty](https://github.com/Azure/DotNetty) ⭐ 4,253 | 🐛 175 | 🌐 C# | 📅 2026-01-12 - netty 的C#版
 * Rust
-  * [tokio](https://github.com/tokio-rs/tokio) ⭐ 33,545 | 🐛 443 | 🌐 Rust | 📅 2026-10-29 - Rust 异步运行时与网络库事实标准
-  * [mio](https://github.com/tokio-rs/mio) ⭐ 7,124 | 🐛 37 | 🌐 Rust | 📅 2026-10-08 - Rust 底层非阻塞 IO 库
+  * [tokio](https://github.com/tokio-rs/tokio) ⭐ 33,551 | 🐛 449 | 🌐 Rust | 📅 2026-10-29 - Rust 异步运行时与网络库事实标准
+  * [mio](https://github.com/tokio-rs/mio) ⭐ 7,125 | 🐛 36 | 🌐 Rust | 📅 2026-10-30 - Rust 底层非阻塞 IO 库
 
 ### 协议
 
 *协议*
 
-* [protobuf](https://github.com/google/protobuf) ⭐ 72,138 | 🐛 390 | 🌐 C++ | 📅 2026-10-30 - 大家都知道的protobuf
-* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,590 | 🐛 338 | 🌐 C++ | 📅 2026-10-29 - Google出品，专门为游戏开发或其他性能敏感的应用程序需求而创建
-* [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,229 | 🐛 341 | 🌐 C++ | 📅 2026-10-29 - 极致性能的序列化协议，零拷贝
-* [Thrift](https://github.com/apache/thrift) ⭐ 10,960 | 🐛 19 | 🌐 C++ | 📅 2026-10-29 - Apache 跨语言 RPC 与序列化框架
-* [SBE](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,525 | 🐛 41 | 🌐 Java | 📅 2026-10-21 - 面向超低延迟场景的二进制编码
+* [protobuf](https://github.com/google/protobuf) ⭐ 72,138 | 🐛 383 | 🌐 C++ | 📅 2026-10-30 - 大家都知道的protobuf
+* [FlatBuffers](https://github.com/google/flatbuffers) ⭐ 26,597 | 🐛 341 | 🌐 C++ | 📅 2026-10-29 - Google出品，专门为游戏开发或其他性能敏感的应用程序需求而创建
+* [Cap'n Proto](https://github.com/capnproto/capnproto) ⭐ 13,230 | 🐛 346 | 🌐 C++ | 📅 2026-10-30 - 极致性能的序列化协议，零拷贝
+* [Thrift](https://github.com/apache/thrift) ⭐ 10,960 | 🐛 22 | 🌐 C++ | 📅 2026-10-31 - Apache 跨语言 RPC 与序列化框架
+* [SBE](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,524 | 🐛 41 | 🌐 Java | 📅 2026-10-21 - 面向超低延迟场景的二进制编码
 * [Json](http://www.json.org/) - 这个算凑数吗？
 * [MessagePack](https://msgpack.org/) - It's like JSON. but fast and small.
 * [CBOR](https://cbor.io/) - 二进制对象表示，IETF RFC 8949
@@ -66,33 +66,33 @@
 *持久化框架*
 
 * Java
-  * [druid](https://github.com/alibaba/druid) ⭐ 28,157 | 🐛 2,351 | 🌐 Java | 📅 2026-08-01 - 阿里巴巴出品 数据库连接池
-  * [HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,245 | 🐛 545 | 🌐 Java | 📅 2026-06-14 - 高性能 JDBC 连接池
-  * [MyBatis](https://github.com/mybatis/mybatis-3) ⭐ 20,439 | 🐛 236 | 🌐 Java | 📅 2026-10-29 - 一个支持普通SQL查询,存储过程和高级映射的优秀持久层框架
-  * [Hibernate](https://github.com/hibernate/hibernate-orm) ⭐ 6,482 | 🐛 184 | 🌐 Java | 📅 2026-10-28 - 老牌 Java ORM 框架
+  * [druid](https://github.com/alibaba/druid) ⭐ 28,156 | 🐛 2,350 | 🌐 Java | 📅 2026-08-01 - 阿里巴巴出品 数据库连接池
+  * [HikariCP](https://github.com/brettwooldridge/HikariCP) ⭐ 21,246 | 🐛 546 | 🌐 Java | 📅 2026-06-14 - 高性能 JDBC 连接池
+  * [MyBatis](https://github.com/mybatis/mybatis-3) ⭐ 20,440 | 🐛 238 | 🌐 Java | 📅 2026-10-30 - 一个支持普通SQL查询,存储过程和高级映射的优秀持久层框架
+  * [Hibernate](https://github.com/hibernate/hibernate-orm) ⭐ 6,482 | 🐛 183 | 🌐 Java | 📅 2026-10-30 - 老牌 Java ORM 框架
 * C#
-  * [Dapper](https://github.com/StackExchange/Dapper) ⭐ 18,406 | 🐛 577 | 🌐 C# | 📅 2026-09-23 - 是一款轻量级ORM框架
-  * [Entity Framework Core](https://github.com/dotnet/efcore) ⭐ 14,811 | 🐛 2,380 | 🌐 C# | 📅 2026-10-29 - 微软官方 .NET ORM
+  * [Dapper](https://github.com/StackExchange/Dapper) ⭐ 18,409 | 🐛 578 | 🌐 C# | 📅 2026-09-23 - 是一款轻量级ORM框架
+  * [Entity Framework Core](https://github.com/dotnet/efcore) ⭐ 14,812 | 🐛 2,369 | 🌐 C# | 📅 2026-10-31 - 微软官方 .NET ORM
 * Erlang
   * [mysql-otp](https://github.com/mysql-otp/mysql-otp) ⭐ 377 | 🐛 9 | 🌐 Erlang | 📅 2026-10-29 -  MySQL driver for Erlang/OTP
 * Golang
-  * [gorm](https://github.com/go-gorm/gorm) ⭐ 39,986 | 🐛 559 | 🌐 Go | 📅 2026-10-24 - Go 最流行的 ORM
-  * [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,738 | 🐛 397 | 🌐 Go | 📅 2024-08-15 - database/sql 的扩展
-  * [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,274 | 🐛 59 | 🌐 Go | 📅 2026-10-29 -  MySQL driver for Golang
+  * [gorm](https://github.com/go-gorm/gorm) ⭐ 39,987 | 🐛 559 | 🌐 Go | 📅 2026-10-24 - Go 最流行的 ORM
+  * [sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,739 | 🐛 397 | 🌐 Go | 📅 2024-08-15 - database/sql 的扩展
+  * [go-sql-driver](https://github.com/go-sql-driver/mysql) ⭐ 15,275 | 🐛 58 | 🌐 Go | 📅 2026-10-30 -  MySQL driver for Golang
   * [xorm](https://gitea.com/xorm/xorm) - 简单强大的 Go ORM
 * Python
-  * [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,272 | 🐛 218 | 🌐 Python | 📅 2026-10-29 - Python SQL 工具包与 ORM
+  * [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) ⭐ 12,275 | 🐛 213 | 🌐 Python | 📅 2026-10-30 - Python SQL 工具包与 ORM
 
 ### 缓存与消息队列
 
 *游戏服常用的缓存与消息中间件*
 
-* [Redis](https://github.com/redis/redis) ⭐ 77,088 | 🐛 3,096 | 🌐 C | 📅 2026-10-29 - 高性能内存数据库，游戏服务器最常用的缓存
-* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,773 | 🐛 82 | 🌐 Go | 📅 2026-08-11 - 实时分布式消息平台
-* [Redisson](https://github.com/redisson/redisson) ⭐ 24,423 | 🐛 240 | 🌐 Java | 📅 2026-10-29 - Redis 的 Java 客户端，提供分布式对象与服务
-* [go-redis](https://github.com/redis/go-redis) ⭐ 22,282 | 🐛 93 | 🌐 Go | 📅 2026-10-29 - Redis 的 Go 客户端
-* [NATS](https://github.com/nats-io/nats-server) ⭐ 20,965 | 🐛 466 | 🌐 Go | 📅 2026-10-29 - 高性能云原生消息系统
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,950 | 🐛 281 | 🌐 JavaScript | 📅 2026-10-30 - 通用消息中间件
+* [Redis](https://github.com/redis/redis) ⭐ 77,110 | 🐛 3,096 | 🌐 C | 📅 2026-10-30 - 高性能内存数据库，游戏服务器最常用的缓存
+* [NSQ](https://github.com/nsqio/nsq) ⭐ 25,772 | 🐛 82 | 🌐 Go | 📅 2026-08-11 - 实时分布式消息平台
+* [Redisson](https://github.com/redisson/redisson) ⭐ 24,424 | 🐛 241 | 🌐 Java | 📅 2026-10-29 - Redis 的 Java 客户端，提供分布式对象与服务
+* [go-redis](https://github.com/redis/go-redis) ⭐ 22,285 | 🐛 96 | 🌐 Go | 📅 2026-10-30 - Redis 的 Go 客户端
+* [NATS](https://github.com/nats-io/nats-server) ⭐ 20,971 | 🐛 466 | 🌐 Go | 📅 2026-10-30 - 高性能云原生消息系统
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-server) ⭐ 13,952 | 🐛 285 | 🌐 JavaScript | 📅 2026-10-31 - 通用消息中间件
 * [KeyDB](https://github.com/Snapchat/KeyDB) ⭐ 12,499 | 🐛 296 | 🌐 C++ | 📅 2026-10-22 - Redis 的多线程分支
 
 ### Log
@@ -100,30 +100,30 @@
 *Log*
 
 * Java
-  * [Logback](https://github.com/qos-ch/logback) ⭐ 3,239 | 🐛 329 | 🌐 Java | 📅 2026-10-28 - log4j 作者写的下一代日志框架
+  * [Logback](https://github.com/qos-ch/logback) ⭐ 3,240 | 🐛 329 | 🌐 Java | 📅 2026-10-28 - log4j 作者写的下一代日志框架
   * [Log4j](https://github.com/apache/log4j) ⚠️ Archived - Apache log4j
 * C#
-  * [Serilog](https://github.com/serilog/serilog) ⭐ 8,055 | 🐛 22 | 🌐 C# | 📅 2026-10-23 - 结构化日志的 .NET 库
-  * [NLog](https://github.com/NLog/NLog) ⭐ 6,546 | 🐛 56 | 🌐 C# | 📅 2026-10-29 - 支持多平台的C# log库
+  * [Serilog](https://github.com/serilog/serilog) ⭐ 8,056 | 🐛 22 | 🌐 C# | 📅 2026-10-23 - 结构化日志的 .NET 库
+  * [NLog](https://github.com/NLog/NLog) ⭐ 6,546 | 🐛 57 | 🌐 C# | 📅 2026-10-29 - 支持多平台的C# log库
 * C++
-  * [spdlog](https://github.com/gabime/spdlog) ⭐ 29,718 | 🐛 53 | 🌐 C++ | 📅 2026-10-24 - 极快的 C++ 日志库
+  * [spdlog](https://github.com/gabime/spdlog) ⭐ 29,724 | 🐛 56 | 🌐 C++ | 📅 2026-10-24 - 极快的 C++ 日志库
   * [glog](https://github.com/google/glog) ⚠️ Archived - Google C++ 日志库
 * Erlang
   * [Lager](https://github.com/erlang-lager/lager) ⭐ 1,130 | 🐛 52 | 🌐 Erlang | 📅 2025-08-26 - A logging framework for Erlang/OTP
 * Golang
   * [logrus](https://github.com/sirupsen/logrus) ⭐ 25,764 | 🐛 59 | 🌐 Go | 📅 2026-10-02 - Structured, pluggable logging for Go
-  * [zap](https://github.com/uber-go/zap) ⭐ 24,682 | 🐛 202 | 🌐 Go | 📅 2026-09-16 - Blazing fast, structured, leveled logging in Go
-  * [zerolog](https://github.com/rs/zerolog) ⭐ 12,524 | 🐛 169 | 🌐 Go | 📅 2026-10-14 - 零分配 JSON logger
+  * [zap](https://github.com/uber-go/zap) ⭐ 24,684 | 🐛 202 | 🌐 Go | 📅 2026-09-16 - Blazing fast, structured, leveled logging in Go
+  * [zerolog](https://github.com/rs/zerolog) ⭐ 12,525 | 🐛 169 | 🌐 Go | 📅 2026-10-14 - 零分配 JSON logger
 * Python
-  * [loguru](https://github.com/Delgan/loguru) ⭐ 24,156 | 🐛 259 | 🌐 Python | 📅 2026-10-25 - 简单易用的 Python 日志库
+  * [loguru](https://github.com/Delgan/loguru) ⭐ 24,157 | 🐛 259 | 🌐 Python | 📅 2026-10-25 - 简单易用的 Python 日志库
 
 ### 游戏AI
 
 *游戏AI*
 
-* [recastnavigation](https://github.com/recastnavigation/recastnavigation) ⭐ 8,045 | 🐛 147 | 🌐 C++ | 📅 2026-02-27 - 非常高效的寻路系统，和Unity的寻路算法几乎一样
+* [recastnavigation](https://github.com/recastnavigation/recastnavigation) ⭐ 8,082 | 🐛 147 | 🌐 C++ | 📅 2026-02-27 - 非常高效的寻路系统，和Unity的寻路算法几乎一样
 * [Serpent.AI](https://github.com/SerpentAI/SerpentAI) ⚠️ Archived - 游戏代理框架，适合写外挂
-* [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,279 | 🐛 35 | 🌐 C++ | 📅 2026-10-26 - 现代 C++ 行为树库，机器人/游戏均可用
+* [BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP) ⭐ 4,280 | 🐛 35 | 🌐 C++ | 📅 2026-10-26 - 现代 C++ 行为树库，机器人/游戏均可用
 * [behaviac](https://github.com/Tencent/behaviac/) ⭐ 3,051 | 🐛 100 | 🌐 C# | 📅 2023-07-07 - 腾讯开源的行为树框架
 * [gdx-ai](https://github.com/libgdx/gdx-ai) ⭐ 1,305 | 🐛 32 | 🌐 Java | 📅 2024-10-01 - libgdx下的一个ai系统（非常适合参考学习）
 
@@ -132,15 +132,15 @@
 *工具库*
 
 * Java
-  * [guava](https://github.com/google/guava) ⭐ 51,915 | 🐛 758 | 🌐 Java | 📅 2026-10-29 - Google出品的Java工具库
-  * [Hutool](https://github.com/dromara/hutool) ⭐ 30,236 | 🐛 2 | 🌐 Java | 📅 2026-10-28 - 国产小而全的 Java 工具类库
-  * [disruptor](https://github.com/LMAX-Exchange/disruptor) ⭐ 18,493 | 🐛 19 | 🌐 Java | 📅 2025-04-02 - 性能高效的线程间通讯库
+  * [guava](https://github.com/google/guava) ⭐ 51,914 | 🐛 761 | 🌐 Java | 📅 2026-10-31 - Google出品的Java工具库
+  * [Hutool](https://github.com/dromara/hutool) ⭐ 30,235 | 🐛 2 | 🌐 Java | 📅 2026-10-30 - 国产小而全的 Java 工具类库
+  * [disruptor](https://github.com/LMAX-Exchange/disruptor) ⭐ 18,491 | 🐛 19 | 🌐 Java | 📅 2025-04-02 - 性能高效的线程间通讯库
 * C++
-  * [folly](https://github.com/facebook/folly) ⭐ 30,552 | 🐛 487 | 🌐 C++ | 📅 2026-10-30 - Facebook 开源的 C++ 基础库
-  * [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,174 | 🐛 313 | 🌐 C++ | 📅 2026-10-30 - Google 通用 C++ 基础库
+  * [folly](https://github.com/facebook/folly) ⭐ 30,554 | 🐛 487 | 🌐 C++ | 📅 2026-10-30 - Facebook 开源的 C++ 基础库
+  * [abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,175 | 🐛 317 | 🌐 C++ | 📅 2026-10-31 - Google 通用 C++ 基础库
 * Go
-  * [cobra](https://github.com/spf13/cobra) ⭐ 44,732 | 🐛 490 | 🌐 Go | 📅 2026-07-11 - Go 命令行框架
-  * [viper](https://github.com/spf13/viper) ⭐ 30,491 | 🐛 165 | 🌐 Go | 📅 2026-01-12 - Go 配置解决方案
+  * [cobra](https://github.com/spf13/cobra) ⭐ 44,730 | 🐛 490 | 🌐 Go | 📅 2026-07-11 - Go 命令行框架
+  * [viper](https://github.com/spf13/viper) ⭐ 30,493 | 🐛 165 | 🌐 Go | 📅 2026-01-12 - Go 配置解决方案
   * [ants](https://github.com/panjf2000/ants) ⭐ 14,526 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - 高性能 goroutine 池
 
 ### 开源服务器
@@ -148,35 +148,35 @@
 *各种开源游戏服务器*
 
 * [skynet](https://github.com/cloudwu/skynet) ⭐ 14,186 | 🐛 27 | 🌐 C | 📅 2026-09-29 - 云风大神出品Lua游戏服务器框架
-* [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,627 | 🐛 129 | 🌐 Go | 📅 2026-10-30 - Heroic Labs 出品的开源分布式游戏服务器，Go 编写
+* [Nakama](https://github.com/heroiclabs/nakama) ⭐ 13,639 | 🐛 128 | 🌐 Go | 📅 2026-10-30 - Heroic Labs 出品的开源分布式游戏服务器，Go 编写
 * [pomelo](https://github.com/NetEase/pomelo) ⚠️ Archived - 网易出品的Node.js游戏服务器框架
-* [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,847 | 🐛 1,514 | 🌐 C++ | 📅 2026-10-29 - MMO游戏服务器框架,开源的魔兽服务器
-* [Colyseus](https://github.com/colyseus/colyseus) ⭐ 7,490 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-26 - Node.js / TypeScript 多人游戏服务器框架
+* [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,848 | 🐛 1,515 | 🌐 C++ | 📅 2026-10-30 - MMO游戏服务器框架,开源的魔兽服务器
+* [Colyseus](https://github.com/colyseus/colyseus) ⭐ 7,496 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-30 - Node.js / TypeScript 多人游戏服务器框架
 * [kbengine](https://github.com/kbengine/kbengine) ⭐ 5,701 | 🐛 176 | 🌐 C | 📅 2022-12-13 - 一款开源的MMOG游戏服务端引擎， 仅Python脚本即可简单高效的完成任何游戏逻辑(支持热更新)
 * [leaf](https://github.com/name5566/leaf) ⭐ 5,510 | 🐛 26 | 🌐 Go | 📅 2024-05-23 - 用Golang写的gameserver
-* [cuberite](https://github.com/cuberite/cuberite) ⭐ 5,458 | 🐛 576 | 🌐 C++ | 📅 2026-04-25 - 我的世界 的开源服务器
-* [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) ⭐ 4,164 | 🐛 25 | 🌐 C++ | 📅 2023-02-25 - 一个支持分布式的C++游戏服务器框架
-* [Cellnet](https://github.com/davyxu/cellnet) ⭐ 4,054 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - Go 高性能事件驱动游戏服务器框架
-* [nano](https://github.com/lonng/nano) ⭐ 3,225 | 🐛 33 | 🌐 Go | 📅 2026-02-26 - 轻量级、易用、高性能的 Go 游戏服务器框架
-* [MaNGOS](https://github.com/mangos/MaNGOS) ⭐ 3,104 | 🐛 2 | 📅 2026-03-06 - 开源的魔兽服务器
-* [Pitaya](https://github.com/topfreegames/pitaya) ⭐ 2,840 | 🐛 71 | 🌐 Go | 📅 2026-10-26 - Go 编写的可扩展游戏服务器框架，pomelo 思路延续
+* [cuberite](https://github.com/cuberite/cuberite) ⭐ 5,457 | 🐛 576 | 🌐 C++ | 📅 2026-04-25 - 我的世界 的开源服务器
+* [NoahGameFrame](https://github.com/ketoo/NoahGameFrame) ⭐ 4,166 | 🐛 25 | 🌐 C++ | 📅 2023-02-25 - 一个支持分布式的C++游戏服务器框架
+* [Cellnet](https://github.com/davyxu/cellnet) ⭐ 4,055 | 🐛 8 | 🌐 Go | 📅 2026-08-24 - Go 高性能事件驱动游戏服务器框架
+* [nano](https://github.com/lonng/nano) ⭐ 3,226 | 🐛 33 | 🌐 Go | 📅 2026-02-26 - 轻量级、易用、高性能的 Go 游戏服务器框架
+* [MaNGOS](https://github.com/mangos/MaNGOS) ⭐ 3,106 | 🐛 2 | 📅 2026-03-06 - 开源的魔兽服务器
+* [Pitaya](https://github.com/topfreegames/pitaya) ⭐ 2,841 | 🐛 71 | 🌐 Go | 📅 2026-10-26 - Go 编写的可扩展游戏服务器框架，pomelo 思路延续
 * [mqant](https://github.com/liangdas/mqant) ⭐ 2,516 | 🐛 20 | 🌐 Go | 📅 2024-09-09 - mqant是一款基于Golang语言的简洁,高效,高性能的分布式游戏服务器框架
 * [NettyGameServer](https://github.com/jwpttcg66/NettyGameServer) ⭐ 1,672 | 🐛 3 | 🌐 Java | 📅 2026-04-14 - 使用netty4.X实现的手机游戏分布式服务器
 * [Scut](https://github.com/ScutGame/Scut) ⭐ 1,340 | 🐛 17 | 🌐 C# | 📅 2016-07-02 - support C#/Python/Lua 可惜两年没有更新了
 * [gonet](https://github.com/xtaci/gonet) ⚠️ Archived - Go 编写的简洁游戏服务器框架
-* [due](https://github.com/dobyte/due) ⭐ 980 | 🐛 22 | 🌐 Go | 📅 2026-10-29 - 一款基于Go语言开发的轻量级分布式游戏服务器框架
+* [due](https://github.com/dobyte/due) ⭐ 981 | 🐛 22 | 🌐 Go | 📅 2026-10-29 - 一款基于Go语言开发的轻量级分布式游戏服务器框架
 * [moon](https://github.com/sniper00/moon) ⭐ 977 | 🐛 0 | 🌐 C++ | 📅 2026-08-15 - 基于Actor模型的轻量级游戏服务器框架(Modern C++, Lua)
 * [xingo](https://github.com/viphxin/xingo) ⭐ 865 | 🐛 0 | 🌐 Go | 📅 2026-07-15 - 高性能golang网络库，游戏开发脚手架
 * [RockGO](https://github.com/zllangct/RockGO) ⭐ 691 | 🐛 9 | 🌐 Go | 📅 2022-09-07 - 基于ECS，用Golang写的gameserver
-* [ryzomcore](https://github.com/ryzom/ryzomcore) ⭐ 476 | 🐛 92 | 🌐 C++ | 📅 2026-10-30 - 分布式的游戏服务器，ryzom 的官方开源
+* [ryzomcore](https://github.com/ryzom/ryzomcore) ⭐ 476 | 🐛 93 | 🌐 C++ | 📅 2026-10-30 - 分布式的游戏服务器，ryzom 的官方开源
 * [Photon Quantum/Server (示例)](https://github.com/exitgames) - 业内常用的实时多人方案，部分组件开源
 
 ### 容器与编排
 
 *游戏服上云常用的容器与调度*
 
-* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,512 | 🐛 3,230 | 🌐 Go | 📅 2026-10-29 - 容器编排事实标准
-* [Agones](https://github.com/googleforgames/agones) ⭐ 7,091 | 🐛 66 | 🌐 Go | 📅 2026-10-29 - 基于 Kubernetes 的专用游戏服编排平台
+* [Kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,543 | 🐛 3,208 | 🌐 Go | 📅 2026-10-30 - 容器编排事实标准
+* [Agones](https://github.com/googleforgames/agones) ⭐ 7,094 | 🐛 64 | 🌐 Go | 📅 2026-10-30 - 基于 Kubernetes 的专用游戏服编排平台
 * [Docker](https://github.com/docker/docker-ce) ⚠️ Archived - 容器化运行时
 * [Open Match](https://github.com/googleforgames/open-match) ⭐ 3,424 | 🐛 80 | 🌐 Go | 📅 2026-07-12 - Google 与 Unity 联合开源的可扩展匹配框架
 
@@ -184,21 +184,21 @@
 
 *运维工具*
 
-* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,417 | 🐛 6,189 | 🌐 Java | 📅 2026-10-30 - 日志检索与分析
-* [Grafana](https://github.com/grafana/grafana) ⭐ 77,577 | 🐛 3,344 | 🌐 TypeScript | 📅 2026-10-30 - 通用可视化与监控仪表盘
-* [Ansible](https://github.com/ansible/ansible) ⭐ 71,158 | 🐛 881 | 🌐 Python | 📅 2026-10-28 - 无代理的自动化运维工具
-* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,850 | 🐛 1,012 | 🌐 Go | 📅 2026-10-30 - 云原生监控与告警系统
+* [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,426 | 🐛 6,198 | 🌐 Java | 📅 2026-10-31 - 日志检索与分析
+* [Grafana](https://github.com/grafana/grafana) ⭐ 77,586 | 🐛 3,359 | 🌐 TypeScript | 📅 2026-10-31 - 通用可视化与监控仪表盘
+* [Ansible](https://github.com/ansible/ansible) ⭐ 71,168 | 🐛 883 | 🌐 Python | 📅 2026-10-30 - 无代理的自动化运维工具
+* [Prometheus](https://github.com/prometheus/prometheus) ⭐ 66,864 | 🐛 1,020 | 🌐 Go | 📅 2026-10-30 - 云原生监控与告警系统
 * [fabric](https://github.com/fabric/fabric) ⭐ 15,520 | 🐛 509 | 🌐 Python | 📅 2026-04-10 - 远程执行命令
-* [supervisor](https://github.com/Supervisor/supervisor) ⭐ 9,154 | 🐛 189 | 🌐 Python | 📅 2025-12-21 - 进程守护管理工具
-* [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) ⭐ 4,913 | 🐛 278 | 🌐 Shell | 📅 2026-10-23 - Linux Game Server Managers
+* [supervisor](https://github.com/Supervisor/supervisor) ⭐ 9,157 | 🐛 189 | 🌐 Python | 📅 2025-12-21 - 进程守护管理工具
+* [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) ⭐ 4,915 | 🐛 279 | 🌐 Shell | 📅 2026-10-30 - Linux Game Server Managers
 
 ### 学习资源
 
 *学习资源*
 
-* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,094 | 🐛 312 | 📅 2026-10-26 - C++ 资源合集，含游戏方向
-* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,843 | 🐛 64 | 📅 2024-04-11 后端架构师技术图谱
-* [game-programmer](https://github.com/miloyip/game-programmer) ⭐ 18,734 | 🐛 31 | 🌐 Python | 📅 2024-03-28 A Study Path for Game Programmer
+* [awesome-cpp](https://github.com/fffaraz/awesome-cpp) ⭐ 74,109 | 🐛 312 | 📅 2026-10-26 - C++ 资源合集，含游戏方向
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) ⭐ 60,846 | 🐛 64 | 📅 2024-04-11 后端架构师技术图谱
+* [game-programmer](https://github.com/miloyip/game-programmer) ⭐ 18,737 | 🐛 31 | 🌐 Python | 📅 2024-03-28 A Study Path for Game Programmer
 * [Awesome GameDev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,204 | 🐛 37 | 📅 2026-08-25 - 综合 gamedev 资源合集
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/) 游戏编程模式
 * [entity-systems](http://entity-systems.wikidot.com/) 实体系统
@@ -207,10 +207,10 @@
 
 ### 其他
 
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,059 | 🐛 97 | 🌐 Go | 📅 2026-10-26 - Go 资源合集，找网络/服务器组件常用
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,217 | 🐛 95 | 🌐 Go | 📅 2026-10-30 - Go 资源合集，找网络/服务器组件常用
 * [games](https://github.com/leereilly/games) ⚠️ Archived github上的一个游戏列表
 * [awesome-erlang](https://github.com/drobakowski/awesome-erlang) ⭐ 1,710 | 🐛 23 | 📅 2022-11-17 - Erlang 资源合集
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
